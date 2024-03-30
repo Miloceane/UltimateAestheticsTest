@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "express": "^4.19.2",
+    "serve-static": "^1.15.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -39,5 +41,7 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "postinstall": "npm run build",
+  "start": "node server.js"
 }

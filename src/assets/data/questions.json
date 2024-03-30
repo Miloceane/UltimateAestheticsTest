@@ -1,0 +1,417 @@
+[
+	{
+	  "question": "What is your favorite type of music?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Pop",
+		  "aesthetics": ["basic", "angelcore", "cottagecore", "glam", "girly_kei", "kawaii", "preppy", "sweet_lolita", "vsco"]
+		},
+		{
+		  "text": "Rock",
+		  "aesthetics": ["8-bit", "gothic", "grunge", "punk", "skater"]
+		},
+		{
+		  "text": "Classical",
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "dark_academia", "light_academia"]
+		},
+		{
+		  "text": "Electronic",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		}
+	  ]
+	},
+	{
+	  "question": "Which environment appeals to you the most?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Urban cityscape",
+		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore"]
+		},
+		{
+		  "text": "Natural countryside",
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Coastal beach",
+		  "aesthetics": ["beach_bunny", "coastal_grandmother", "nautical", "tropical"]
+		},
+		{
+		  "text": "Industrial city",
+		  "aesthetics": ["brutal_industrial", "cyberpunk", "downtown_girl", "urbancore"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your preferred fashion style?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Vintage Americana",
+		  "aesthetics": ["vintage_americana"]
+		},
+		{
+		  "text": "Gothic",
+		  "aesthetics": ["gothic", "gothic_lolita"]
+		},
+		{
+		  "text": "Bohemian",
+		  "aesthetics": ["bohemian"]
+		},
+		{
+		  "text": "Preppy",
+		  "aesthetics": ["preppy"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of weather?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Sunny and warm",
+		  "aesthetics": ["basic", "beach_bunny", "girly_kei", "kawaii", "preppy", "tropical", "vsco"]
+		},
+		{
+		  "text": "Rainy and cozy",
+		  "aesthetics": ["comfy_cozy", "cottagecore", "dark_academia", "emo", "mori_kei"]
+		},
+		{
+		  "text": "Snowy and serene",
+		  "aesthetics": ["cozy", "snow_bunny"]
+		},
+		{
+		  "text": "Foggy and mysterious",
+		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism"]
+		}
+	  ]
+	},
+	{
+	  "question": "What type of books do you enjoy reading?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Fantasy",
+		  "aesthetics": ["fairycore", "fantasy"]
+		},
+		{
+		  "text": "Thriller",
+		  "aesthetics": ["dark_academia", "gothic", "grunge", "punk"]
+		},
+		{
+		  "text": "Romance",
+		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita"]
+		},
+		{
+		  "text": "Science fiction",
+		  "aesthetics": ["cyberpunk", "science_academia", "steampunk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of food?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Comfort food",
+		  "aesthetics": ["cozy", "comfy_cozy"]
+		},
+		{
+		  "text": "Exotic cuisine",
+		  "aesthetics": ["cyberpunk", "vaporwave"]
+		},
+		{
+		  "text": "Fine dining",
+		  "aesthetics": ["glam"]
+		},
+		{
+		  "text": "Fast food",
+		  "aesthetics": ["basic", "punk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your ideal day off?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Spending time in nature",
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Exploring a new city",
+		  "aesthetics": ["after_hours", "downtown_girl", "urbancore"]
+		},
+		{
+		  "text": "Relaxing at home",
+		  "aesthetics": ["comfy_cozy", "cozy", "dark_academia", "emo", "snow_bunny", "sweet_lolita"]
+		},
+		{
+		  "text": "Shopping and socializing",
+		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco"]
+		}
+	  ]
+	},
+	{
+	  "question": "What type of movies do you enjoy watching?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Romantic comedies",
+		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita"]
+		},
+		{
+		  "text": "Action",
+		  "aesthetics": ["after_hours", "cyberpunk", "gothic", "grunge", "punk"]
+		},
+		{
+		  "text": "Documentaries",
+		  "aesthetics": ["science_academia"]
+		},
+		{
+		  "text": "Horror",
+		  "aesthetics": ["dark_academia", "gothic", "punk", "surrealism"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your preferred mode of transportation?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Walking",
+		  "aesthetics": ["cottagecore", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Driving",
+		  "aesthetics": ["basic", "preppy"]
+		},
+		{
+		  "text": "Public transit",
+		  "aesthetics": ["cyberpunk", "urbancore"]
+		},
+		{
+		  "text": "Cycling",
+		  "aesthetics": ["basic", "punk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of pet?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Cat",
+		  "aesthetics": ["angelcore", "cozy", "emo", "gothic", "mori_kei", "sweet_lolita"]
+		},
+		{
+		  "text": "Dog",
+		  "aesthetics": ["basic", "beach_bunny", "girly_kei", "kawaii", "preppy", "snow_bunny", "vsco"]
+		},
+		{
+		  "text": "Bird",
+		  "aesthetics": ["angelcore", "art_academia", "cyberpunk", "forestpunk", "tropical"]
+		},
+		{
+		  "text": "Reptile",
+		  "aesthetics": ["emo", "gothic", "punk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your preferred leisure activity?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Reading",
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia"]
+		},
+		{
+		  "text": "Hiking",
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Shopping",
+		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco"]
+		},
+		{
+		  "text": "Gaming",
+		  "aesthetics": ["cyberpunk", "e-girl_e-boy", "emo", "punk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of social gathering?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Intimate dinner party",
+		  "aesthetics": ["angelcore", "cottagecore", "dark_academia", "emo", "mori_kei", "sweet_lolita"]
+		},
+		{
+		  "text": "Outdoor picnic",
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Night out at a club",
+		  "aesthetics": ["after_hours", "cybergoth", "cyberpunk", "downtown_girl", "punk", "vaporwave"]
+		},
+		{
+		  "text": "Cultural event",
+		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "science_academia"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your preferred type of exercise?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Yoga",
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "light_academia"]
+		},
+		{
+		  "text": "Running",
+		  "aesthetics": ["after_hours", "cybergoth", "cyberpunk", "punk", "skater"]
+		},
+		{
+		  "text": "Weightlifting",
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk"]
+		},
+		{
+		  "text": "Dancing",
+		  "aesthetics": ["cybergoth", "cyberpunk", "e-girl_e-boy", "punk"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of technology?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Smartphone",
+		  "aesthetics": ["basic", "e-girl_e-boy", "kawaii", "preppy", "vsco"]
+		},
+		{
+		  "text": "Vintage camera",
+		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana"]
+		},
+		{
+		  "text": "Robotics",
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave"]
+		},
+		{
+		  "text": "Virtual reality",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your preferred method of relaxation?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Meditation",
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "light_academia"]
+		},
+		{
+		  "text": "Reading a book",
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia"]
+		},
+		{
+		  "text": "Taking a bath",
+		  "aesthetics": ["comfy_cozy", "cozy", "sweet_lolita"]
+		},
+		{
+		  "text": "Watching TV or movies",
+		  "aesthetics": ["angelcore", "comfy_cozy", "cozy", "emo", "sweet_lolita"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of decor?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Plants and natural elements",
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Antique furniture",
+		  "aesthetics": ["vintage_americana"]
+		},
+		{
+		  "text": "Minimalist and sleek",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk"]
+		},
+		{
+		  "text": "Futuristic and high-tech",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite color palette?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Soft pastels",
+		  "aesthetics": ["angelcore", "cozy", "sweet_lolita"]
+		},
+		{
+		  "text": "Bold and vibrant",
+		  "aesthetics": ["basic", "beach_bunny", "glam", "kawaii", "preppy", "tropical", "vsco"]
+		},
+		{
+		  "text": "Neutral earth tones",
+		  "aesthetics": ["art_academia", "classic_academia", "dark_academia", "light_academia", "mori_kei", "rustic"]
+		},
+		{
+		  "text": "Monochrome black and white",
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave"]
+		}
+	  ]
+	},
+	{
+	  "question": "What is your favorite type of art?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Impressionism",
+		  "aesthetics": ["angelcore", "romanticism", "surrealism"]
+		},
+		{
+		  "text": "Abstract",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		},
+		{
+		  "text": "Renaissance",
+		  "aesthetics": ["classic_academia", "light_academia"]
+		},
+		{
+		  "text": "Street art",
+		  "aesthetics": ["cyberpunk", "grunge", "punk", "skater", "urbancore"]
+		}
+	  ]
+	}
+  ]
+  

@@ -1,0 +1,442 @@
+[
+  {
+    "id": "8-bit",
+    "name": "8-bit",
+    "aesthetics_fandom_id": "8-Bit"
+  },
+  {
+    "id": "adventurecore",
+    "name": "Adventurecore",
+    "aesthetics_fandom_id": "Adventurecore"
+  },
+  {
+    "id": "after_hours",
+    "name": "After hours",
+    "aesthetics_fandom_id": "After_Hours"
+  },
+  {
+    "id": "angelcore",
+    "name": "Angelcore",
+    "aesthetics_fandom_id": "Angelcore"
+  },
+  {
+    "id": "art_academia",
+    "name": "Art academia",
+    "aesthetics_fandom_id": "Art_Academia"
+  },
+  {
+    "id": "art_deco",
+    "name": "Art Deco",
+    "aesthetics_fandom_id": "Art_Deco"
+  },
+  {
+    "id": "art_hoe",
+    "name": "Art hoe",
+    "aesthetics_fandom_id": "Art_Hoe"
+  },
+  {
+    "id": "art_nouveau",
+    "name": "Art Nouveau",
+    "aesthetics_fandom_id": "Art_Nouveau"
+  },
+  {
+    "id": "baddie",
+    "name": "Baddie",
+    "aesthetics_fandom_id": "Baddie"
+  },
+  {
+    "id": "baroque",
+    "name": "Baroque",
+    "aesthetics_fandom_id": "Baroque"
+  },
+  {
+    "id": "basic",
+    "name": "Basic",
+    "aesthetics_fandom_id": "Basic_Girl"
+  },
+  {
+    "id": "bohemian",
+    "name": "Bohemian",
+    "aesthetics_fandom_id": "Bohemian"
+  },
+  {
+    "id": "bright_tertiaries",
+    "name": "Bright Tertiaries",
+    "aesthetics_fandom_id": "Bright_Tertiaries"
+  },
+  {
+    "id": "classic_academia",
+    "name": "Classic academia",
+    "aesthetics_fandom_id": "Classic_Academia"
+  },
+  {
+    "id": "classic_lolita",
+    "name": "Classic Lolita",
+    "aesthetics_fandom_id": "Classic_Lolita"
+  },
+  {
+    "id": "coastal_grandmother",
+    "name": "Coastal grandmother",
+    "aesthetics_fandom_id": "Coastal_Grandmother"
+  },
+  {
+    "id": "comfy_cozy",
+    "name": "Comfy/cozy",
+    "aesthetics_fandom_id": "Comfy/Cozy"
+  },
+  {
+    "id": "coquette",
+    "name": "Coquette",
+    "aesthetics_fandom_id": "Coquette"
+  },
+  {
+    "id": "cottagecore",
+    "name": "Cottagecore",
+    "aesthetics_fandom_id": "Cottagecore"
+  },
+  {
+    "id": "cottagegore",
+    "name": "Cottagegore",
+    "aesthetics_fandom_id": "Cottagegore"
+  },
+  {
+    "id": "cybercore",
+    "name": "Cybercore",
+    "aesthetics_fandom_id": "Cybercore"
+  },
+  {
+    "id": "cybergoth",
+    "name": "Cybergoth",
+    "aesthetics_fandom_id": "Cybergoth"
+  },
+  {
+    "id": "cyberprep",
+    "name": "Cyberprep",
+    "aesthetics_fandom_id": "Cyberprep"
+  },
+  {
+    "id": "cyberpunk",
+    "name": "Cyberpunk",
+    "aesthetics_fandom_id": "Cyberpunk"
+  },
+  {
+    "id": "dandy",
+    "name": "Dandy",
+    "aesthetics_fandom_id": "Dandy"
+  },
+  {
+    "id": "dark_academia",
+    "name": "Dark Academia",
+    "aesthetics_fandom_id": "Dark_Academia"
+  },
+  {
+    "id": "dark_naturalism",
+    "name": "Dark Naturalism",
+    "aesthetics_fandom_id": "Dark_Naturalism"
+  },
+  {
+    "id": "decora",
+    "name": "Decora",
+    "aesthetics_fandom_id": "Decora"
+  },
+  {
+    "id": "desertwave",
+    "name": "Desertwave",
+    "aesthetics_fandom_id": "Desertwave"
+  },
+  {
+    "id": "downtown_girl",
+    "name": "Downtown girl",
+    "aesthetics_fandom_id": "Downtown_Girl"
+  },
+  {
+    "id": "dreamcore",
+    "name": "Dreamcore",
+    "aesthetics_fandom_id": "Dreamcore"
+  },
+  {
+    "id": "e-girl_e-boy",
+    "name": "E-girl/E-boy",
+    "aesthetics_fandom_id": "E-girl/E-boy"
+  },
+  {
+    "id": "emo",
+    "name": "Emo",
+    "aesthetics_fandom_id": "Emo"
+  },
+  {
+    "id": "ethereal",
+    "name": "Ethereal",
+    "aesthetics_fandom_id": "Ethereal"
+  },
+  {
+    "id": "fairy_kei",
+    "name": "Fairy kei",
+    "aesthetics_fandom_id": "Fairy_Kei"
+  },
+  {
+    "id": "fairycore",
+    "name": "Fairycore",
+    "aesthetics_fandom_id": "Fairycore"
+  },
+  {
+    "id": "fantasy",
+    "name": "Fantasy",
+    "aesthetics_fandom_id": "Fantasy"
+  },
+  {
+    "id": "forestpunk",
+    "name": "Forestpunk",
+    "aesthetics_fandom_id": "Forestpunk"
+  },
+  {
+    "id": "frutiger_aero",
+    "name": "Frutiger Aero",
+    "aesthetics_fandom_id": "Frutiger_Aero"
+  },
+  {
+    "id": "frutiger_metro",
+    "name": "Frutiger metro",
+    "aesthetics_fandom_id": "Frutiger_Metro"
+  },
+  {
+    "id": "girl_crush",
+    "name": "Girl crush",
+    "aesthetics_fandom_id": "Girl_Crush"
+  },
+  {
+    "id": "girly_kei",
+    "name": "Girly kei",
+    "aesthetics_fandom_id": "Girly_Kei"
+  },
+  {
+    "id": "glam",
+    "name": "Glam",
+    "aesthetics_fandom_id": "Glam_Girl"
+  },
+  {
+    "id": "gothic",
+    "name": "Gothic",
+    "aesthetics_fandom_id": "Gothic"
+  },
+  {
+    "id": "gothic_lolita",
+    "name": "Gothic Lolita",
+    "aesthetics_fandom_id": "Gothic Lolita"
+  },
+  {
+    "id": "grandparentcore",
+    "name": "Grandparentcore",
+    "aesthetics_fandom_id": "Grandparentcore"
+  },
+  {
+    "id": "grunge",
+    "name": "Grunge",
+    "aesthetics_fandom_id": "Grunge"
+  },
+  {
+    "id": "hippie",
+    "name": "Hippie",
+    "aesthetics_fandom_id": "Hippie"
+  },
+  {
+    "id": "hipster",
+    "name": "Hipster",
+    "aesthetics_fandom_id": "Hipster"
+  },
+  {
+    "id": "horror",
+    "name": "Horror",
+    "aesthetics_fandom_id": "Horror"
+  },
+  {
+    "id": "indie",
+    "name": "Indie",
+    "aesthetics_fandom_id": "Indie"
+  },
+  {
+    "id": "kawaii",
+    "name": "Kawaii",
+    "aesthetics_fandom_id": "Kawaii"
+  },
+  {
+    "id": "kidcore",
+    "name": "Kidcore",
+    "aesthetics_fandom_id": "Kidcore"
+  },
+  {
+    "id": "knightcore",
+    "name": "Knightcore",
+    "aesthetics_fandom_id": "Knightcore"
+  },
+  {
+    "id": "light_academia",
+    "name": "Light Academia",
+    "aesthetics_fandom_id": "Light_Academia"
+  },
+  {
+    "id": "mid-century_modern",
+    "name": "Mid-century Modern",
+    "aesthetics_fandom_id": "Mid-century_Modern"
+  },
+  {
+    "id": "military",
+    "name": "Military",
+    "aesthetics_fandom_id": "Military"
+  },
+  {
+    "id": "minimalist",
+    "name": "Minimalist",
+    "aesthetics_fandom_id": "Minimalist"
+  },
+  {
+    "id": "modernism",
+    "name": "Modernism",
+    "aesthetics_fandom_id": "Modernism"
+  },
+  {
+    "id": "mori_kei",
+    "name": "Mori kei",
+    "aesthetics_fandom_id": "Mori_Kei"
+  },
+  {
+    "id": "morute",
+    "name": "Morute",
+    "aesthetics_fandom_id": "Morute"
+  },
+  {
+    "id": "nautical",
+    "name": "Nautical",
+    "aesthetics_fandom_id": "Nautical"
+  },
+  {
+    "id": "neo-tribal",
+    "name": "Neo-tribal",
+    "aesthetics_fandom_id": "Neo-Tribal"
+  },
+  {
+    "id": "old_money",
+    "name": "Old money",
+    "aesthetics_fandom_id": "Old_Money"
+  },
+  {
+    "id": "pastel_goth",
+    "name": "Pastel goth",
+    "aesthetics_fandom_id": "Pastel Goth"
+  },
+  {
+    "id": "preppy",
+    "name": "Preppy",
+    "aesthetics_fandom_id": "Preppy"
+  },
+  {
+    "id": "punk",
+    "name": "Punk",
+    "aesthetics_fandom_id": "Punk"
+  },
+  {
+    "id": "retro-futurism",
+    "name": "Retro-futurism",
+    "aesthetics_fandom_id": "Retro-Futurism"
+  },
+  {
+    "id": "rococo",
+    "name": "Rococo",
+    "aesthetics_fandom_id": "Rococo"
+  },
+  {
+    "id": "romanticism",
+    "name": "Romanticism",
+    "aesthetics_fandom_id": "Romanticism"
+  },
+  {
+    "id": "rustic",
+    "name": "Rustic",
+    "aesthetics_fandom_id": "Rustic"
+  },
+  {
+    "id": "science_academia",
+    "name": "Science academia",
+    "aesthetics_fandom_id": "Science_Academia"
+  },
+  {
+    "id": "skater",
+    "name": "Skater",
+    "aesthetics_fandom_id": "Skater"
+  },
+  {
+    "id": "mermaidcore",
+    "name": "Mermaidcore",
+    "aesthetics_fandom_id": "Mermaid"
+  },
+  {
+    "id": "softcore",
+    "name": "Softcore",
+    "aesthetics_fandom_id": "Softie"
+  },
+  {
+    "id": "solarpunk",
+    "name": "Solarpunk",
+    "aesthetics_fandom_id": "Solarpunk"
+  },
+  {
+    "id": "steampunk",
+    "name": "Steampunk",
+    "aesthetics_fandom_id": "Steampunk"
+  },
+  {
+    "id": "surrealism",
+    "name": "Surrealism",
+    "aesthetics_fandom_id": "Surrealism"
+  },
+  {
+    "id": "sweet_lolita",
+    "name": "Sweet Lolita",
+    "aesthetics_fandom_id": "Sweet Lolita"
+  },
+  {
+    "id": "tropical",
+    "name": "Tropical",
+    "aesthetics_fandom_id": "Tropical"
+  },
+  {
+    "id": "urbancore",
+    "name": "Urbancore",
+    "aesthetics_fandom_id": "Urbancore"
+  },
+  {
+    "id": "vsco",
+    "name": "VSCO",
+    "aesthetics_fandom_id": "VSCO"
+  },
+  {
+    "id": "vacation_dadcore",
+    "name": "Vacation dadcore",
+    "aesthetics_fandom_id": "Vacation_Dadcore"
+  },
+  {
+    "id": "vaporwave",
+    "name": "Vaporwave",
+    "aesthetics_fandom_id": "Vaporwave"
+  },
+  {
+    "id": "victorian",
+    "name": "Victorian",
+    "aesthetics_fandom_id": "Victorian"
+  },
+  {
+    "id": "vintage_americana",
+    "name": "Vintage Americana",
+    "aesthetics_fandom_id": "Vintage_Americana"
+  },
+  {
+    "id": "witchcore",
+    "name": "Witchcore",
+    "aesthetics_fandom_id": "Witchcore"
+  },
+  {
+    "id": "y2k",
+    "name": "Y2K",
+    "aesthetics_fandom_id": "Y2K"
+  }
+]

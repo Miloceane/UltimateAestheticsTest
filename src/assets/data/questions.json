@@ -10,38 +10,54 @@
 		},
 		{
 		  "text": "Rock",
-		  "aesthetics": ["8-bit", "gothic", "grunge", "punk", "skater"]
+		  "aesthetics": ["8-bit", "gothic", "grunge", "skater", "hipster", "punk"]
+		},
+		{
+		  "text": "Emo",
+		  "aesthetics": ["emo"]
+		},
+		{
+		  "text": "Punk",
+		  "aesthetics": ["punk", "emo", "skater"]
 		},
 		{
 		  "text": "Classical",
-		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "dark_academia", "light_academia"]
+		  "aesthetics": ["angelcore", "art_academia", "classic_academia", "dark_academia", "light_academia", "classic_lolita"]
 		},
 		{
 		  "text": "Electronic",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "8-bit"]
 		}
 	  ]
 	},
 	{
-	  "question": "Which environment appeals to you the most?",
+	  "question": "Which type of place appeals to you the most?",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
 		{
-		  "text": "Urban cityscape",
-		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore"]
+		  "text": "The univeristy campus",
+		  "aesthetics": ["art_academia", "classic_academia", "dark_academia", "light_academia", "science_academia"]
+		},
+		{
+		  "text": "An art gallery",
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave"]
+		},
+		{
+		  "text": "Urban cityscapes",
+		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave"]
 		},
 		{
 		  "text": "Natural countryside",
 		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
 		},
 		{
-		  "text": "Coastal beach",
-		  "aesthetics": ["beach_bunny", "coastal_grandmother", "nautical", "tropical"]
+		  "text": "A coastal beach",
+		  "aesthetics": ["coastal_grandmother", "nautical", "tropical"]
 		},
 		{
-		  "text": "Industrial city",
-		  "aesthetics": ["brutal_industrial", "cyberpunk", "downtown_girl", "urbancore"]
+		  "text": "An industrial city",
+		  "aesthetics": ["brutal_industrial", "cyberpunk", "downtown_girl", "urbancore", "vaporwave"]
 		}
 	  ]
 	},
@@ -51,12 +67,12 @@
 	  "answersType": "Text",
 	  "answers": [
 		{
-		  "text": "Vintage Americana",
-		  "aesthetics": ["vintage_americana"]
+		  "text": "Vintage",
+		  "aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute"]
 		},
 		{
 		  "text": "Gothic",
-		  "aesthetics": ["gothic", "gothic_lolita"]
+		  "aesthetics": ["gothic", "gothic_lolita", "dark_academia", "victorian"]
 		},
 		{
 		  "text": "Bohemian",
@@ -64,7 +80,27 @@
 		},
 		{
 		  "text": "Preppy",
-		  "aesthetics": ["preppy"]
+		  "aesthetics": ["preppy", "dark_academia", "old_money"]
+		},
+		{
+		  "text": "Girly",
+		  "aesthetics": ["coquette", "girly_kei"]
+		},
+		{
+		  "text": "Romantic",
+		  "aesthetics": ["cottagecore", "romanticism"]
+		},
+		{
+		  "text": "Summer clothing",
+		  "aesthetics": ["tropical", "nautical", "vacation_dadcore", "coastal_grandmother"]
+		},
+		{
+		  "text": "VSCO",
+		  "aesthetics": ["vsco", "art_hoe", "hipster", "e-girl_e-boy"]
+		},
+		{
+		  "text": "Anti fashion",
+		  "aesthetics": ["grunge"]
 		}
 	  ]
 	},
@@ -75,7 +111,7 @@
 	  "answers": [
 		{
 		  "text": "Sunny and warm",
-		  "aesthetics": ["basic", "beach_bunny", "girly_kei", "kawaii", "preppy", "tropical", "vsco"]
+		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "tropical", "vsco"]
 		},
 		{
 		  "text": "Rainy and cozy",
@@ -83,11 +119,11 @@
 		},
 		{
 		  "text": "Snowy and serene",
-		  "aesthetics": ["cozy", "snow_bunny"]
+		  "aesthetics": ["comfy_cozy"]
 		},
 		{
 		  "text": "Foggy and mysterious",
-		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism"]
+		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism", "dark_academia"]
 		}
 	  ]
 	},
@@ -98,7 +134,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy"]
+		  "aesthetics": ["fairycore", "fantasy", "dark_academia"]
 		},
 		{
 		  "text": "Thriller",
@@ -106,11 +142,15 @@
 		},
 		{
 		  "text": "Romance",
-		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita"]
+		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita", "dark_academia"]
 		},
 		{
 		  "text": "Science fiction",
-		  "aesthetics": ["cyberpunk", "science_academia", "steampunk"]
+		  "aesthetics": ["cyberpunk", "science_academia", "steampunk", "dark_academia"]
+		},
+		{
+		  "text": "Horror",
+		  "aesthetics": ["horror", "dark_academia"]
 		}
 	  ]
 	},
@@ -152,7 +192,7 @@
 		},
 		{
 		  "text": "Relaxing at home",
-		  "aesthetics": ["comfy_cozy", "cozy", "dark_academia", "emo", "snow_bunny", "sweet_lolita"]
+		  "aesthetics": ["comfy_cozy", "cozy", "dark_academia", "emo", "sweet_lolita"]
 		},
 		{
 		  "text": "Shopping and socializing",
@@ -179,7 +219,7 @@
 		},
 		{
 		  "text": "Horror",
-		  "aesthetics": ["dark_academia", "gothic", "punk", "surrealism"]
+		  "aesthetics": ["dark_academia", "gothic", "punk", "surrealism", "horror"]
 		}
 	  ]
 	},
@@ -217,15 +257,27 @@
 		},
 		{
 		  "text": "Dog",
-		  "aesthetics": ["basic", "beach_bunny", "girly_kei", "kawaii", "preppy", "snow_bunny", "vsco"]
+		  "aesthetics": ["basic", "beach_bunny", "girly_kei", "kawaii", "preppy", "vsco"]
+		},
+		{
+		  "text": "Bunny",
+		  "aesthetics": ["cottagecore"]
 		},
 		{
 		  "text": "Bird",
 		  "aesthetics": ["angelcore", "art_academia", "cyberpunk", "forestpunk", "tropical"]
 		},
 		{
-		  "text": "Reptile",
+		  "text": "Snake",
 		  "aesthetics": ["emo", "gothic", "punk"]
+		},
+		{
+		  "text": "Turtle",
+		  "aesthetics": ["cottagecore"]
+		},
+		{
+		  "text": "Mouse/rat",
+		  "aesthetics": ["cottagecore"]
 		}
 	  ]
 	},
@@ -248,10 +300,37 @@
 		},
 		{
 		  "text": "Gaming",
-		  "aesthetics": ["cyberpunk", "e-girl_e-boy", "emo", "punk"]
+		  "aesthetics": ["cyberpunk", "e-girl_e-boy", "emo", "punk", "8-bit", "cybercore", "vaporwave"]
+		},
+		{
+		  "text": "Doing something artsy",
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave"]
 		}
 	  ]
 	},
+	{
+		"question": "If you play games, what games are more appealing to you?",
+		"question_subtype": "General",
+		"answersType": "Text",
+		"answers": [
+		  {
+			"text": "Old 8-bit console games",
+			"aesthetics": ["8-bit"]
+		  },
+		  {
+			"text": "Retro PC games",
+			"aesthetics": ["vaporwave"]
+		  },
+		  {
+			"text": "",
+			"aesthetics": ["after_hours", "cybergoth", "cyberpunk", "downtown_girl", "punk", "vaporwave"]
+		  },
+		  {
+			"text": "I don't play games",
+			"aesthetics": ["art_academia", "classic_academia", "light_academia", "science_academia"]
+		  }
+		]
+	  },
 	{
 	  "question": "What is your favorite type of social gathering?",
 	  "question_subtype": "General",
@@ -336,7 +415,7 @@
 		},
 		{
 		  "text": "Taking a bath",
-		  "aesthetics": ["comfy_cozy", "cozy", "sweet_lolita"]
+		  "aesthetics": ["comfy_cozy", "sweet_lolita"]
 		},
 		{
 		  "text": "Watching TV or movies",
@@ -355,15 +434,15 @@
 		},
 		{
 		  "text": "Antique furniture",
-		  "aesthetics": ["vintage_americana"]
+		  "aesthetics": ["vintage_americana", "art_deco"]
 		},
 		{
 		  "text": "Minimalist and sleek",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "minimalism"]
 		},
 		{
 		  "text": "Futuristic and high-tech",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "frutiger_aero"]
 		}
 	  ]
 	},
@@ -374,19 +453,35 @@
 	  "answers": [
 		{
 		  "text": "Soft pastels",
-		  "aesthetics": ["angelcore", "cozy", "sweet_lolita"]
+		  "aesthetics": ["angelcore", "cozy", "sweet_lolita", "fairy_kei", "softcore"]
 		},
 		{
-		  "text": "Bold and vibrant",
-		  "aesthetics": ["basic", "beach_bunny", "glam", "kawaii", "preppy", "tropical", "vsco"]
+		  "text": "Bold accent colors",
+		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "frutiger_aero", "frutiger_metro"]
+		},
+		{
+		  "text": "Bright rainbow colors",
+		  "aesthetics": ["decora", "kidcore"]
+		},
+		{
+		  "text": "Muted colors",
+		  "aesthetics": ["classic_lolita"]
 		},
 		{
 		  "text": "Neutral earth tones",
-		  "aesthetics": ["art_academia", "classic_academia", "dark_academia", "light_academia", "mori_kei", "rustic"]
+		  "aesthetics": ["art_academia", "classic_academia", "dark_academia", "light_academia", "mori_kei", "rustic", "minimalism"]
 		},
 		{
 		  "text": "Monochrome black and white",
-		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave"]
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave", "minimalism"]
+		},
+		{
+		  "text": "The very 2000s lime green, fuchsia, orange and teal combo",
+		  "aesthetics": ["bright_tertiaries", "frutiger_aero", "frutiger_metro", "y2k"]
+		},
+		{
+		  "text": "Black, like my soul",
+		  "aesthetics": ["gothic", "emo", "gothic_lolita"]
 		}
 	  ]
 	},
@@ -397,19 +492,249 @@
 	  "answers": [
 		{
 		  "text": "Impressionism",
-		  "aesthetics": ["angelcore", "romanticism", "surrealism"]
+		  "aesthetics": ["angelcore", "romanticism", "surrealism", "art_academia", "art_hoe"]
 		},
 		{
 		  "text": "Abstract",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe"]
+		},
+		{
+		  "text": "Baroque",
+		  "aesthetics": ["baroque", "art_academia", "art_hoe"]
+		},
+		{
+		  "text": "Art Nouveau",
+		  "aesthetics": ["art_nouveau", "art_academia", "art_hoe"]
+		},
+		{
+		  "text": "Art Deco",
+		  "aesthetics": ["art_deco", "art_academia", "art_hoe"]
 		},
 		{
 		  "text": "Renaissance",
-		  "aesthetics": ["classic_academia", "light_academia"]
+		  "aesthetics": ["classic_academia", "light_academia", "victorian", "art_academia", "art_hoe"]
 		},
 		{
 		  "text": "Street art",
-		  "aesthetics": ["cyberpunk", "grunge", "punk", "skater", "urbancore"]
+		  "aesthetics": ["cyberpunk", "grunge", "punk", "skater", "urbancore", "art_academia", "art_hoe"]
+		},
+		{
+		  "text": "Graphi arts and CGI",
+		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe"]
+		}
+	  ]
+	},
+	{
+	  "question": "Do you feel close to a specific historical period?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		"text": "The middle ages",
+		"aesthetics": ["fantasy", "knightcore"]
+	  	},
+		{
+		  "text": "18th century",
+		  "aesthetics": ["rococo", "victorian"]
+		},
+		{
+		  "text": "19th century",
+		  "aesthetics": ["victorian", "art_nouveau", "modernism"]
+		},
+		{
+		  "text": "Early 20th century",
+		  "aesthetics": ["art_deco", "modernism"]
+		},
+		{
+		  "text": "1950s-1960s",
+		  "aesthetics": ["atompunk", "coquette", "preppy", "mid-century_modern", "retro-futurism"]
+		},
+		{
+		  "text": "1970s",
+		  "aesthetics": ["punk", "gothic", "coquette", "kawaii", "horror", "downtown_girl"]
+		},
+		{
+		  "text": "1970s",
+		  "aesthetics": ["grunge", "punk", "downtown_girl", "cyberpunk", "gothic", "vaporwave", "8-bit", "cybergoth"]
+		},
+		{
+		  "text": "1980s",
+		  "aesthetics": ["fairycore", "fairy_kei"]
+		},
+		{
+		  "text": "1990s",
+		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei"]
+		},
+		{
+		  "text": "2000s",
+		  "aesthetics": ["hipster", "y2k", "frutiger_aero", "frutiger_metro", "cybercore", "emo", "downtown_girl"]
+		},
+		{
+		  "text": "2010s",
+		  "aesthetics": ["vsco", "frutiger_aero", "frutiger_metro", "downtown_girl", "dreamcore", "morute"]
+		}
+	  ]
+	},
+	{
+	  "question": "If income was irrelevant, what job would you like to have?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		"text": "Research and teaching",
+		"aesthetics": ["art_academia", "classic_academia", "dark_academia", "light_academia", "science_academia"]
+	  	},
+		{
+		  "text": "",
+		  "aesthetics": ["rococo", "victorian"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["art_deco"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["punk"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["fairycore", "fairy_kei"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["hipster", "y2k"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["vsco"]
+		}
+	  ]
+	},
+	{
+	  "question": "Which part of the world appeals the most to you, culture wise?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		"text": "The USA",
+		"aesthetics": ["vintage_americana", "y2k"]
+	  	},
+		{
+		  "text": "",
+		  "aesthetics": ["rococo", "victorian"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["art_deco"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["punk"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["fairycore", "fairy_kei"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["hipster", "y2k"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["vsco"]
+		}
+	  ]
+	},
+	{
+	  "question": "Favourite decorative pillow pattern?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		"text": "Angels",
+		"aesthetics": ["angelcore"]
+	  	},
+		{
+		  "text": "Cute animals",
+		  "aesthetics": ["cottagecore"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["art_deco"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["punk"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["fairycore", "fairy_kei"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["hipster", "y2k"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["vsco"]
+		}
+	  ]
+	},
+	{
+	  "question": "Do you have an interest in a particular type of architectural style?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		"text": "Baroque",
+		"aesthetics": ["baroque"]
+	  	},
+		{
+		  "text": "Art Nouveau",
+		  "aesthetics": ["art_nouveau"]
+		},
+		{
+		  "text": "Art Deco",
+		  "aesthetics": ["art_deco"]
+		},
+		{
+		  "text": "Modernist",
+		  "aesthetics": ["modernism"]
+		},
+		{
+		  "text": "Gothic",
+		  "aesthetics": ["gothic", "dark_academia", "victorian", "gothic_lolita"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["hipster", "y2k"]
+		},
+		{
+		  "text": "",
+		  "aesthetics": ["vsco"]
+		}
+	  ]
+	},
+	{
+	  "question": "Do you have a favourite season?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Spring",
+		  "aesthetics": ["cottagecore"]
+		},
+		{
+		  "text": "Summer",
+		  "aesthetics": ["tropical", "vacation_dadcore"]
+		},
+		{
+		  "text": "Autumn",
+		  "aesthetics": ["vsco", "comfy_cozy"]
+		},
+		{
+		  "text": "Winter",
+		  "aesthetics": ["vsco"]
 		}
 	  ]
 	}

@@ -65,7 +65,7 @@
 		},
 		{
 		  "text": "Natural countryside",
-		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore"]
 		},
 		{
 		  "text": "Coastal beach",
@@ -84,7 +84,7 @@
 	  "answers": [
 		{
 		  "text": "Vintage",
-		  "aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute"]
+		  "aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore"]
 		},
 		{
 		  "text": "Gothic",
@@ -131,15 +131,19 @@
 		},
 		{
 		  "text": "Rainy and cozy",
-		  "aesthetics": ["comfy_cozy", "cottagecore", "emo", "mori_kei", "coquette"]
+		  "aesthetics": ["comfy_cozy", "emo", "mori_kei", "coquette", "cottagegore"]
 		},
 		{
 		  "text": "Snowy and serene",
 		  "aesthetics": ["comfy_cozy"]
 		},
 		{
+		  "text": "Thunderstorm",
+		  "aesthetics": ["cottagegore"]
+		},
+		{
 		  "text": "Foggy and mysterious",
-		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism", "dark_academia", "vaporwave"]
+		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism", "dark_academia", "vaporwave", "cottagegore"]
 		}
 	  ]
 	},
@@ -150,7 +154,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "dark_academia"]
+		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore"]
 		},
 		{
 		  "text": "Mystery",
@@ -352,7 +356,7 @@
 		},
 		{
 		  "text": "Baking",
-		  "aesthetics": ["grandparentcore"]
+		  "aesthetics": ["grandparentcore", "cottagegore", "cottagecore"]
 		},
 		{
 		  "text": "Programming (also browsing Reddit)",
@@ -510,7 +514,7 @@
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore"]
 		},
 		{
 		  "text": "Antique furniture",
@@ -553,15 +557,15 @@
 		},
 		{
 		  "text": "Muted colors",
-		  "aesthetics": ["classic_lolita"]
-		},
-		{
-		  "text": "Dark muted tones",
-		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism"]
+		  "aesthetics": ["classic_lolita", "cottagegore"]
 		},
 		{
 		  "text": "Neutral earth tones",
-		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism"]
+		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore"]
+		},
+		{
+		  "text": "Dark earth or muted tones",
+		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore"]
 		},
 		{
 		  "text": "Monochrome black and white",
@@ -573,7 +577,7 @@
 		},
 		{
 		  "text": "Black, like my soul",
-		  "aesthetics": ["gothic", "emo", "gothic_lolita"]
+		  "aesthetics": ["gothic", "emo", "gothic_lolita", "cottagegore"]
 		}
 	  ]
 	},
@@ -920,7 +924,7 @@
 		},
 		{
 		  "text": "",
-		  "aesthetics": ["vsco"]
+		  "aesthetics": [""]
 		}
 	  ]
 	},
@@ -942,8 +946,8 @@
 		  "aesthetics": ["military"]
 		},
 		{
-		  "text": "",
-		  "aesthetics": ["vsco"]
+		  "text": "A black flowy dress",
+		  "aesthetics": ["cottagegore"]
 		}
 	  ]
 	},
@@ -961,8 +965,8 @@
 			"aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave"]
 		},
 		{
-			"text": "An abandoned appartment building",
-			"aesthetics": ["after_hours"]
+			"text": "An abandoned skate park",
+			"aesthetics": ["after_hours", "skater"]
 		},
 		{
 			"text": "A little cottage on the countryside",
@@ -973,12 +977,16 @@
 			"aesthetics": ["vacation_dadcore", "coastal_grandmother", "nautical", "tropical"]
 		},
 		{
+			"text": "A dense forest",
+			"aesthetics": ["cottagegore", "forestpunk"]
+		} ,
+		{
 			"text": "The club!",
 			"aesthetics": ["cybergoth"]
 		},
 		{
-			"text": "An empty skate park at 3am",
-			"aesthetics": ["after_hours", "skater"]
+			"text": "An empty cemetery at night",
+			"aesthetics": ["after_hours", "cottagegore", "gothic"]
 		} 
 	]
 	},
@@ -992,16 +1000,16 @@
 		"aesthetics": ["fairycore"]
 		},
 		{
-		"text": "",
-		"aesthetics": ["tropical", "vacation_dadcore"]
+		"text": "Forest cryptids",
+		"aesthetics": ["cottagegore"]
 		},
 		{
 		"text": "",
-		"aesthetics": ["vsco", "comfy_cozy"]
+		"aesthetics": ["", ""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["vsco"]
+		"aesthetics": [""]
 		}
 	]
 	},
@@ -1016,15 +1024,15 @@
 		},
 		{
 		"text": "",
-		"aesthetics": ["tropical", "vacation_dadcore"]
+		"aesthetics": ["", ""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["vsco", "comfy_cozy"]
+		"aesthetics": ["", ""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["vsco"]
+		"aesthetics": [""]
 		}
 	]
 	},
@@ -1120,7 +1128,7 @@
 	"answers": [
 		{
 		"text": "Traditionnal",
-		"aesthetics": ["cottagecore", "old_money"]
+		"aesthetics": ["cottagecore", "old_money", "cottagegore"]
 		},
 		{
 		"text": "Following the trends",

@@ -6,7 +6,7 @@
 	  "answers": [
 		{
 		  "text": "Pop",
-		  "aesthetics": ["basic", "angelcore", "cottagecore", "glam", "girly_kei", "kawaii", "preppy", "sweet_lolita", "vsco"]
+		  "aesthetics": ["basic", "angelcore", "cottagecore", "glam", "girly_kei", "kawaii", "preppy", "sweet_lolita", "vsco", "dreamcore"]
 		},
 		{
 		  "text": "Rock",
@@ -34,7 +34,7 @@
 		},
 		{
 		  "text": "Hip-Hop",
-		  "aesthetics": ["horror", "urbancore"]
+		  "aesthetics": ["horror", "urbancore", "baddie"]
 		},
 		{
 		  "text": "Jazz",
@@ -147,7 +147,7 @@
 		},
 		{
 		  "text": "Foggy and mysterious",
-		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism", "dark_academia", "vaporwave", "cottagegore"]
+		  "aesthetics": ["dark_naturalism", "mori_kei", "surrealism", "dark_academia", "vaporwave", "cottagegore", "dreamcore"]
 		}
 	  ]
 	},
@@ -158,7 +158,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore", "ethereal"]
+		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore", "ethereal", "dreamcore"]
 		},
 		{
 		  "text": "Mystery",
@@ -193,7 +193,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "cottagegore", "ethereal"]
+		  "aesthetics": ["fairycore", "fantasy", "cottagegore", "ethereal", "dreamcore"]
 		},
 		{
 		  "text": "Thriller",
@@ -217,7 +217,7 @@
 		},
 		{
 		"text": "Horror",
-		"aesthetics": ["gothic", "surrealism", "horror", "vaporwave"]
+		"aesthetics": ["gothic", "surrealism", "horror", "vaporwave", "dreamcore"]
 		}
 	  ]
 	},
@@ -259,15 +259,15 @@
 		},
 		{
 		  "text": "Relaxing at home",
-		  "aesthetics": ["comfy_cozy", "emo", "sweet_lolita"]
+		  "aesthetics": ["comfy_cozy", "emo", "sweet_lolita", "baddie"]
 		},
 		{
 		  "text": "Shopping and socializing",
-		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco", "bright_tertiaries", "softcore", "dandy"]
+		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco", "bright_tertiaries", "softcore", "dandy", "baddie"]
 		},
 		{
 		  "text": "Lounging by the pool or on the beach",
-		  "aesthetics": ["vacation_dadcore", "tropical", "seapunk"]
+		  "aesthetics": ["vacation_dadcore", "tropical", "seapunk", "baddie"]
 		}
 	  ]
 	},
@@ -356,7 +356,7 @@
 		},
 		{
 		  "text": "Shopping",
-		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco", "bright_tertiaries", "dandy"]
+		  "aesthetics": ["basic", "glam", "girly_kei", "kawaii", "preppy", "vsco", "bright_tertiaries", "dandy", "baddie"]
 		},
 		{
 		  "text": "Gaming",
@@ -373,6 +373,10 @@
 		{
 		  "text": "Watching anime",
 		  "aesthetics": ["softcore"]
+		},
+		{
+		  "text": "Chilling and watching Tik Tok or Youtube",
+		  "aesthetics": ["baddie", "basic", "dreamcore"]
 		},
 		{
 		  "text": "Baking",
@@ -404,6 +408,10 @@
 		  {
 			"text": "All the Final Fantasy games",
 			"aesthetics": ["fantasy", "y2k", "dieselpunk", "kidcore"]
+		  },
+		  {
+			"text": "Minecraft",
+			"aesthetics": ["kidcore", "dreamcore"]
 		  },
 		  {
 			"text": "Bioshock",
@@ -554,8 +562,8 @@
 		  "aesthetics": ["comfy_cozy", "sweet_lolita"]
 		},
 		{
-		  "text": "Watching TV or movies",
-		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore"]
+		  "text": "Watching TV, movies or Youtube",
+		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore", "baddie"]
 		},
 		{
 		  "text": "Sunbathing",
@@ -563,7 +571,7 @@
 		},
 		{
 		  "text": "Daydreaming",
-		  "aesthetics": ["ethereal", "kidcore"]
+		  "aesthetics": ["ethereal", "kidcore", "dreamcore"]
 		}
 	  ]
 	},
@@ -621,11 +629,11 @@
 		},
 		{
 		  "text": "A mix of neutral and bold colors",
-		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk", "knightcore", "kidcore", "grandparentcore", "witchcore", "dandy"]
+		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk", "knightcore", "kidcore", "grandparentcore", "witchcore", "dandy", "baddie"]
 		},
 		{
 		  "text": "Bright rainbow colors",
-		  "aesthetics": ["decora", "kidcore", "hippie", "atompunk"]
+		  "aesthetics": ["decora", "kidcore", "hippie", "atompunk", "dreamcore"]
 		},
 		{
 		  "text": "Muted colors",
@@ -664,7 +672,7 @@
 	  "answers": [
 		{
 		  "text": "Impressionism",
-		  "aesthetics": ["angelcore", "romanticism", "surrealism", "art_academia", "art_hoe"]
+		  "aesthetics": ["angelcore", "romanticism", "surrealism", "art_academia", "art_hoe", "dreamcore"]
 		},
 		{
 		  "text": "Abstract",
@@ -692,15 +700,15 @@
 		},
 		{
 		  "text": "Photography",
-		  "aesthetics": ["morute"]
+		  "aesthetics": ["morute", "dreamcore"]
 		},
 		{
 		  "text": "Pop art",
-		  "aesthetics": ["atompunk", "seapunk", "art_hoe", "kidcore"]
+		  "aesthetics": ["atompunk", "seapunk", "art_hoe", "kidcore", "dreamcore"]
 		},
 		{
 		  "text": "Graphic arts and CGI",
-		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe", "frutiger_metro", "frutiger_aero", "seapunk"]
+		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe", "frutiger_metro", "frutiger_aero", "seapunk", "dreamcore"]
 		}
 	  ]
 	},
@@ -735,11 +743,11 @@
 		},
 		{
 		  "text": "1980s",
-		  "aesthetics": ["fairycore", "fairy_kei", "grunge", "punk", "downtown_girl", "cyberpunk", "gothic", "vaporwave", "8-bit", "cybergoth"]
+		  "aesthetics": ["fairycore", "fairy_kei", "grunge", "punk", "downtown_girl", "cyberpunk", "gothic", "vaporwave", "8-bit", "cybergoth", "baddie"]
 		},
 		{
 		  "text": "1990s",
-		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei", "seapunk", "kidcore"]
+		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei", "seapunk", "kidcore", "baddie"]
 		},
 		{
 		  "text": "2000s",
@@ -783,6 +791,10 @@
 		{
 		  "text": "Engineering for the progress of society",
 		  "aesthetics": ["solarpunk", "dieselpunk", "atompunk"]
+		},
+		{
+		  "text": "Something related to beauty (hairdresser, stylist, beauty influencer...)",
+		  "aesthetics": ["baddie"]
 		}
 	  ]
 	},
@@ -860,7 +872,7 @@
 		},
 		{
 		  "text": "Something that looks or feels bubbly",
-		  "aesthetics": ["frutiger_aero"]
+		  "aesthetics": ["frutiger_aero", "dreamcore"]
 		},
 		{
 		  "text": "No pattern, but lace",
@@ -974,6 +986,10 @@
 		{
 		  "text": "Courage",
 		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Self-confidence",
+		  "aesthetics": ["baddie"]
 		}
 	  ]
 	},
@@ -1011,7 +1027,7 @@
 	  "answers": [
 		{
 		  "text": "Bubblegum",
-		  "aesthetics": ["coquette"]
+		  "aesthetics": ["coquette", "baddie"]
 		},
 		{
 		  "text": "Strawberries",
@@ -1163,6 +1179,18 @@
 		{
 		  "text": "Poncho",
 		  "aesthetics": ["desertwave"]
+		},
+		{
+		  "text": "Crop top",
+		  "aesthetics": ["baddie"]
+		},
+		{
+		  "text": "Camo pants",
+		  "aesthetics": ["baddie"]
+		},
+		{
+		  "text": "Tube top",
+		  "aesthetics": ["baddie"]
 		}
 	  ]
 	},
@@ -1220,19 +1248,50 @@
 	"answers": [
 		{
 		"text": "Fairies",
-		"aesthetics": ["fairycore", "ethereal"]
+		"aesthetics": ["fairycore", "ethereal", "dreamcore"]
 		},
 		{
 		"text": "Forest cryptids",
-		"aesthetics": ["cottagegore"]
+		"aesthetics": ["cottagegore", "dreamcore"]
 		},
 		{
 		"text": "Mermaid",
-		"aesthetics": ["seapunk"]
+		"aesthetics": ["seapunk", "dreamcore"]
 		},
 		{
 		"text": "Area 51 alien creatures",
-		"aesthetics": ["desertwave"]
+		"aesthetics": ["desertwave", "dreamcore"]
+		},
+		{
+		"text": "Creatures from Alice in Wonderland",
+		"aesthetics": ["dreamcore"]
+		},
+		{
+		"text": "Animals from the Miyazaki movies",
+		"aesthetics": ["kidcore", "dreamcore", "solarpunk"]
+		}
+	]
+	},
+	{
+	"question": "You want to look...",
+	"question_subtype": "General",
+	"answersType": "Text",
+	"answers": [
+		{
+		"text": "Cute",
+		"aesthetics": ["softcore"]
+		},
+		{
+		"text": "Sexy",
+		"aesthetics": ["baddie"]
+		},
+		{
+		"text": "Rich",
+		"aesthetics": ["old_money", "dandy"]
+		},
+		{
+		"text": "Elegant",
+		"aesthetics": ["dandy"]
 		}
 	]
 	},

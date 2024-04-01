@@ -38,7 +38,7 @@
 		},
 		{
 		  "text": "Jazz",
-		  "aesthetics": ["hipster"]
+		  "aesthetics": ["hipster", "dieselpunk"]
 		},
 		{
 		  "text": "Kpop",
@@ -92,7 +92,7 @@
 		},
 		{
 		  "text": "Bohemian",
-		  "aesthetics": ["bohemian"]
+		  "aesthetics": ["bohemian", "hippie"]
 		},
 		{
 		  "text": "Preppy",
@@ -174,7 +174,7 @@
 		},
 		{
 		  "text": "Science fiction",
-		  "aesthetics": ["cyberpunk", "science_academia", "steampunk", "dark_academia"]
+		  "aesthetics": ["cyberpunk", "science_academia", "steampunk", "dark_academia", "atompunk"]
 		},
 		{
 		  "text": "Horror",
@@ -201,7 +201,7 @@
 		},
 		{
 		  "text": "Science fiction",
-		  "aesthetics": ["cyberpunk", "science_academia", "steampunk"]
+		  "aesthetics": ["cyberpunk", "science_academia", "steampunk", "atompunk"]
 		},
 		{
 		"text": "Action",
@@ -352,11 +352,11 @@
 		},
 		{
 		  "text": "Doing something artsy",
-		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk"]
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk", "hippie"]
 		},
 		{
 		  "text": "Gardening",
-		  "aesthetics": ["cottagecore", "solarpunk"]
+		  "aesthetics": ["cottagecore", "solarpunk", "hippie"]
 		},
 		{
 		  "text": "Baking",
@@ -365,6 +365,10 @@
 		{
 		  "text": "Programming (also browsing Reddit)",
 		  "aesthetics": ["cyberpunk"]
+		},
+		{
+		  "text": "Playing music",
+		  "aesthetics": ["hippie"]
 		}
 	  ]
 	},
@@ -382,8 +386,16 @@
 			"aesthetics": ["vaporwave", "cybercore"]
 		  },
 		  {
-			"text": "J-RPGs",
-			"aesthetics": ["y2k"]
+			"text": "All the Final Fantasy games",
+			"aesthetics": ["fantasy", "y2k", "dieselpunk"]
+		  },
+		  {
+			"text": "Bioshock",
+			"aesthetics": ["dieselpunk"]
+		  },
+		  {
+			"text": "Fallout",
+			"aesthetics": ["atompunk"]
 		  },
 		  {
 			"text": "Cyberpunk 2077",
@@ -410,7 +422,7 @@
 		},
 		{
 		  "text": "Night out at a club",
-		  "aesthetics": ["after_hours", "cybergoth", "downtown_girl", "punk", "vaporwave"]
+		  "aesthetics": ["after_hours", "cybergoth", "downtown_girl", "punk", "vaporwave", "dieselpunk"]
 		},
 		{
 		  "text": "Cultural event",
@@ -429,7 +441,7 @@
 	  "answers": [
 		{
 		  "text": "Yoga",
-		  "aesthetics": ["angelcore", "classic_academia", "light_academia"]
+		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie"]
 		},
 		{
 		  "text": "Running",
@@ -463,8 +475,16 @@
 		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana", "morute", "downtown_girl", "dark_academia", "hipster"]
 		},
 		{
+		  "text": "Cars, airplanes, spaceships",
+		  "aesthetics": ["art_deco", "dieselpunk", "atompunk"]
+		},
+		{
 		  "text": "Robotics",
-		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave", "cyberprep"]
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave", "cyberprep", "atompunk"]
+		},
+		{
+		  "text": "Atomic energy",
+		  "aesthetics": ["atompunk"]
 		},
 		{
 		  "text": "Virtual reality",
@@ -477,10 +497,6 @@
 		{
 		  "text": "Dreamcast, Gamecube, XBOX or Playstation 2",
 		  "aesthetics": ["cybercore"]
-		},
-		{
-		  "text": "A perfectly efficient public transportation network",
-		  "aesthetics": ["art_deco"]
 		}
 	  ]
 	},
@@ -491,7 +507,7 @@
 	  "answers": [
 		{
 		  "text": "Meditation",
-		  "aesthetics": ["angelcore", "classic_academia", "light_academia"]
+		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie"]
 		},
 		{
 		  "text": "Reading a book",
@@ -522,7 +538,7 @@
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie "]
 		},
 		{
 		  "text": "Antique furniture",
@@ -557,11 +573,11 @@
 		},
 		{
 		  "text": "A mix of neutral and bold colors",
-		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco"]
+		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk"]
 		},
 		{
 		  "text": "Bright rainbow colors",
-		  "aesthetics": ["decora", "kidcore"]
+		  "aesthetics": ["decora", "kidcore", "hippie", "atompunk"]
 		},
 		{
 		  "text": "Muted colors",
@@ -589,7 +605,7 @@
 		},
 		{
 		  "text": "Black, like my soul",
-		  "aesthetics": ["gothic", "emo", "gothic_lolita", "cottagegore"]
+		  "aesthetics": ["gothic", "emo", "gothic_lolita", "cottagegore", "dieselpunk"]
 		}
 	  ]
 	},
@@ -631,6 +647,10 @@
 		  "aesthetics": ["morute"]
 		},
 		{
+		  "text": "Pop art",
+		  "aesthetics": ["atompunk", "seapunk", "art_hoe"]
+		},
+		{
 		  "text": "Graphic arts and CGI",
 		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe", "frutiger_metro", "frutiger_aero", "seapunk"]
 		}
@@ -655,11 +675,11 @@
 		},
 		{
 		  "text": "Early 20th century",
-		  "aesthetics": ["art_deco", "modernism"]
+		  "aesthetics": ["art_deco", "modernism", "dieselpunk"]
 		},
 		{
 		  "text": "1950s-1960s",
-		  "aesthetics": ["atompunk", "coquette", "preppy", "mid-century_modern", "retro-futurism", "hippie"]
+		  "aesthetics": ["atompunk", "coquette", "preppy", "mid-century_modern", "hippie"]
 		},
 		{
 		  "text": "1970s",
@@ -683,7 +703,7 @@
 		},
 		{
 		  "text": "How about the future?",
-		  "aesthetics": ["vaporwave", "solarpunk"]
+		  "aesthetics": ["vaporwave", "solarpunk", "atompunk"]
 		}
 	  ]
 	},
@@ -702,19 +722,19 @@
 		},
 		{
 		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
-		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk"]
+		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie"]
 		},
 		{
 		  "text": "Something which involves puzzling and tinkering (programming, hacking...)",
 		  "aesthetics": ["cyberpunk", "science_academia"]
 		},
 		{
-		  "text": "Working to defend my country or people (activism, politics, military...)",
-		  "aesthetics": ["military", "punk"]
+		  "text": "Working to defend my people (activism, politics, military...)",
+		  "aesthetics": ["military", "punk", "hippie", "dieselpunk"]
 		},
 		{
 		  "text": "Engineering for the progress of society",
-		  "aesthetics": ["solarpunk"]
+		  "aesthetics": ["solarpunk", "dieselpunk", "atompunk"]
 		}
 	  ]
 	},
@@ -725,7 +745,7 @@
 	  "answers": [
 		{
 		"text": "The USA",
-		"aesthetics": ["vintage_americana", "y2k", "hipster"]
+		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk"]
 	  	},
 		{
 		"text": "Southeast Asia",
@@ -767,8 +787,8 @@
 		  "aesthetics": ["art_deco", "bright_tertiaries"]
 		},
 		{
-		  "text": "Sprawling patterns",
-		  "aesthetics": ["frutiger_aero", "frutiger_metro", "bright_tertiaries"]
+		  "text": "Sprawling or spiral patterns",
+		  "aesthetics": ["frutiger_aero", "frutiger_metro", "bright_tertiaries", "hippie"]
 		},
 		{
 		  "text": "Intricate curvy shapes",
@@ -831,7 +851,7 @@
 		},
 		{
 		  "text": "Bohemian",
-		  "aesthetics": ["bohemian"]
+		  "aesthetics": ["bohemian", "hippie"]
 		},
 		{
 		  "text": "19th century",
@@ -920,7 +940,7 @@
 		},
 		{
 		  "text": "Sustainability",
-		  "aesthetics": ["solarpunk"]
+		  "aesthetics": ["solarpunk", "hippie"]
 		}
 	  ]
 	},
@@ -987,6 +1007,42 @@
 		{
 		  "text": "Sunglasses",
 		  "aesthetics": ["seapunk"]
+		},
+		{
+		  "text": "A tie-dye shirt",
+		  "aesthetics": ["hippie"]
+		},
+		{
+		  "text": "Harem pants",
+		  "aesthetics": ["hippie"]
+		},
+		{
+		  "text": "Beaded jewelry",
+		  "aesthetics": ["hippie"]
+		},
+		{
+		  "text": "A dark waistcoat",
+		  "aesthetics": ["dieselpunk"]
+		},
+		{
+		  "text": "Arm covers",
+		  "aesthetics": ["dieselpunk"]
+		},
+		{
+		  "text": "Dark hosiery",
+		  "aesthetics": ["dieselpunk", "atompunk"]
+		},
+		{
+		  "text": "Latex boots",
+		  "aesthetics": ["atompunk"]
+		},
+		{
+		  "text": "Latex skirt",
+		  "aesthetics": ["atompunk"]
+		},
+		{
+		  "text": "Latex gloves",
+		  "aesthetics": ["atompunk"]
 		}
 	  ]
 	},
@@ -1025,7 +1081,7 @@
 		},
 		{
 			"text": "The club!",
-			"aesthetics": ["cybergoth"]
+			"aesthetics": ["cybergoth", "dieselpunk"]
 		},
 		{
 			"text": "An empty cemetery at night",
@@ -1098,11 +1154,11 @@
 		},
 		{
 		"text": "Philosophy",
-		"aesthetics": ["dark_academia", "hipster"]
+		"aesthetics": ["dark_academia", "hipster", "dieselpunk"]
 		},
 		{
 		"text": "Arts",
-		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk"]
+		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk", "hippie"]
 		},
 		{
 		"text": "All of them",
@@ -1152,14 +1208,45 @@
 		},
 		{
 		"text": "Politics",
-		"aesthetics": ["punk", "military"]
+		"aesthetics": ["punk", "military", "dieselpunk"]
 		},
 		{
-		"text": "History",
-		"aesthetics": ["military"]
+		"text": "War history",
+		"aesthetics": ["military", "dieselpunk"]
 		},
 		{
 		"text": "Interior decor on Catawiki",
+		"aesthetics": ["rococo", "ethereal"]
+		}
+	]
+	},
+	{
+	"question": "Your favourite Marvel movie?",
+	"question_subtype": "General",
+	"answersType": "Text",
+	"answers": [
+		{
+		"text": "Captain America",
+		"aesthetics": ["dieselpunk", "vintage_americana"]
+		},
+		{
+		"text": "",
+		"aesthetics": ["dark_academia"]
+		},
+		{
+		"text": "",
+		"aesthetics": ["cyberpunk"]
+		},
+		{
+		"text": "",
+		"aesthetics": ["punk", "military", "dieselpunk"]
+		},
+		{
+		"text": "",
+		"aesthetics": ["military"]
+		},
+		{
+		"text": "",
 		"aesthetics": ["rococo", "ethereal"]
 		}
 	]
@@ -1183,7 +1270,7 @@
 		},
 		{
 		"text": "Rebellious",
-		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk"]
+		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk", "hippie", "atompunk", "dieselpunk"]
 		},
 		{
 		"text": "Reviving old trends",

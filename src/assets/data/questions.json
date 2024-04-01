@@ -10,7 +10,7 @@
 		},
 		{
 		  "text": "Rock",
-		  "aesthetics": ["8-bit", "gothic", "grunge", "skater", "hipster", "punk", "downtown_girl", "y2k"]
+		  "aesthetics": ["8-bit", "gothic", "grunge", "skater", "hipster", "punk", "downtown_girl", "y2k", "neo-tribal"]
 		},
 		{
 		  "text": "Punk",
@@ -26,11 +26,11 @@
 		},
 		{
 		  "text": "Industrial",
-		  "aesthetics": ["y2k"]
+		  "aesthetics": ["y2k", "neo-tribal"]
 		},
 		{
 		  "text": "Metal",
-		  "aesthetics": ["y2k"]
+		  "aesthetics": ["y2k", "neo-tribal"]
 		},
 		{
 		  "text": "Hip-Hop",
@@ -46,7 +46,7 @@
 		},
 		{
 		  "text": "Alt-pop",
-		  "aesthetics": ["downtown_girl"]
+		  "aesthetics": ["downtown_girl", "neo-tribal"]
 		},
 		{
 		  "text": "Indie rock",
@@ -61,7 +61,7 @@
 	  "answers": [
 		{
 		  "text": "Urban cityscapes",
-		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep", "solarpunk"]
+		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep", "solarpunk", "neo-tribal"]
 		},
 		{
 		  "text": "Natural countryside",
@@ -423,7 +423,7 @@
 		  },
 		  {
 			"text": "Cyberpunk 2077",
-			"aesthetics": ["cyberpunk"]
+			"aesthetics": ["cyberpunk", "neo-tribal"]
 		  },
 		  {
 			"text": "I don't play games",
@@ -606,7 +606,7 @@
 		},
 		{
 		  "text": "Religious symbols",
-		  "aesthetics": ["morute", "knightcore"]
+		  "aesthetics": ["morute", "knightcore", "neo-tribal"]
 		},
 		{
 		  "text": "Colorful stuffed animals, figurines or posters",
@@ -645,11 +645,11 @@
 		},
 		{
 		  "text": "Dark earth or muted tones",
-		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "softcore", "witchcore"]
+		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore"]
 		},
 		{
 		  "text": "Monochrome black and white",
-		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "minimalism"]
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "minimalism", "neo-tribal"]
 		},
 		{
 		  "text": "Cold neon colors",
@@ -696,7 +696,7 @@
 		},
 		{
 		  "text": "Street art",
-		  "aesthetics": ["cyberpunk", "grunge", "punk", "skater", "urbancore", "art_academia", "art_hoe", "softcore"]
+		  "aesthetics": ["cyberpunk", "grunge", "punk", "skater", "urbancore", "art_academia", "art_hoe", "softcore", "neo-tribal"]
 		},
 		{
 		  "text": "Photography",
@@ -793,8 +793,8 @@
 		  "aesthetics": ["solarpunk", "dieselpunk", "atompunk"]
 		},
 		{
-		  "text": "Something related to beauty (hairdresser, stylist, beauty influencer...)",
-		  "aesthetics": ["baddie"]
+		  "text": "Something related to beauty (tattoo artist, beauty influencer...)",
+		  "aesthetics": ["baddie", "neo-tribal"]
 		}
 	  ]
 	},
@@ -813,7 +813,7 @@
 		},
 		{
 		"text": "Japan",
-		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei", "solarpunk"]
+		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei"]
 		},
 		{
 		  "text": "France",
@@ -825,7 +825,7 @@
 		},
 		{
 		  "text": "Pacific islands",
-		  "aesthetics": ["vacation_dadcore"]
+		  "aesthetics": ["vacation_dadcore", "neo-tribal"]
 		},
 		{
 		  "text": "Africa",
@@ -844,7 +844,7 @@
 	  "answers": [
 		{
 		  "text": "A neat geometric pattern",
-		  "aesthetics": ["art_deco", "bright_tertiaries"]
+		  "aesthetics": ["art_deco", "bright_tertiaries", "neo-tribal"]
 		},
 		{
 		  "text": "Sprawling or spiral patterns",
@@ -864,7 +864,7 @@
 		},
 		{
 			"text": "Angels",
-			"aesthetics": ["angelcore", "fairycore", "ethereal"]
+			"aesthetics": ["angelcore", "fairycore", "ethereal", "neo-tribal"]
 		},
 		{
 			"text": "Cute animals",
@@ -1048,7 +1048,101 @@
 	  ]
 	},
 	{
-	  "question": "Which one of these fashion items would feel the most like you?",
+	  "question": "Let's make an outfit! Pick a top:",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "A military uniform vest",
+		  "aesthetics": ["military"]
+		},
+		{
+		  "text": "A sweater with 3D computer imagery from the 2000s",
+		  "aesthetics": ["seapunk", "vaporwave"]
+		},
+		{
+		  "text": "A holographic shirt",
+		  "aesthetics": ["seapunk"]
+		},
+		{
+		  "text": "A tie-dye shirt",
+		  "aesthetics": ["hippie"]
+		},
+		{
+		  "text": "A dark waistcoat",
+		  "aesthetics": ["dieselpunk", "dandy"]
+		},
+		{
+		  "text": "Metal armor",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Leather vest",
+		  "aesthetics": ["knightcore", "desertwave"]
+		},
+		{
+		  "text": "Bright collared shirt",
+		  "aesthetics": ["kidcore"]
+		},
+		{
+		  "text": "Cozy jumper",
+		  "aesthetics": ["grandparentcore"]
+		},
+		{
+		  "text": "Plaid shirt",
+		  "aesthetics": ["grandparentcore"]
+		},
+		{
+		  "text": "Elegant dress shirt",
+		  "aesthetics": ["dandy"]
+		},
+		{
+		  "text": "Poncho",
+		  "aesthetics": ["desertwave"]
+		},
+		{
+		  "text": "Crop top",
+		  "aesthetics": ["baddie"]
+		},
+		{
+		  "text": "Tube top",
+		  "aesthetics": ["baddie"]
+		},
+		{
+		  "text": "A hoodie with a tattoo print",
+		  "aesthetics": ["neo-tribal"]
+		}
+	  ]
+	},
+	{
+	  "question": "And a bottom:",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "A black flowy skirt",
+		  "aesthetics": ["cottagegore"]
+		},
+		{
+		  "text": "Harem pants",
+		  "aesthetics": ["hippie"]
+		},
+		{
+		  "text": "Latex skirt",
+		  "aesthetics": ["atompunk"]
+		},
+		{
+		  "text": "Slim-fit trousers",
+		  "aesthetics": ["dandy"]
+		},
+		{
+		  "text": "Camo pants",
+		  "aesthetics": ["baddie"]
+		}
+	  ]
+	},
+	{
+	  "question": "Let's add one more thing:",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
@@ -1059,22 +1153,6 @@
 		{
 		  "text": "Casual warm woolly socks",
 		  "aesthetics": ["comfy_cozy"]
-		},
-		{
-		  "text": "A military uniform",
-		  "aesthetics": ["military"]
-		},
-		{
-		  "text": "A black flowy dress",
-		  "aesthetics": ["cottagegore"]
-		},
-		{
-		  "text": "A sweater with 3D computer imagery from the 2000s",
-		  "aesthetics": ["seapunk", "vaporwave"]
-		},
-		{
-		  "text": "A holographic shirt",
-		  "aesthetics": ["seapunk"]
 		},
 		{
 		  "text": "Blue, green or pink hair color",
@@ -1089,20 +1167,8 @@
 		  "aesthetics": ["seapunk"]
 		},
 		{
-		  "text": "A tie-dye shirt",
-		  "aesthetics": ["hippie"]
-		},
-		{
-		  "text": "Harem pants",
-		  "aesthetics": ["hippie"]
-		},
-		{
 		  "text": "Beaded jewelry",
 		  "aesthetics": ["hippie"]
-		},
-		{
-		  "text": "A dark waistcoat",
-		  "aesthetics": ["dieselpunk", "dandy"]
 		},
 		{
 		  "text": "Arm covers",
@@ -1117,32 +1183,16 @@
 		  "aesthetics": ["atompunk"]
 		},
 		{
-		  "text": "Latex skirt",
-		  "aesthetics": ["atompunk"]
-		},
-		{
 		  "text": "Latex gloves",
 		  "aesthetics": ["atompunk"]
-		},
-		{
-		  "text": "Metal armor",
-		  "aesthetics": ["knightcore"]
 		},
 		{
 		  "text": "Leather gloves",
 		  "aesthetics": ["knightcore", "desertwave"]
 		},
 		{
-		  "text": "Leather vest",
-		  "aesthetics": ["knightcore", "desertwave"]
-		},
-		{
 		  "text": "Leather cloak",
 		  "aesthetics": ["knightcore", "desertwave"]
-		},
-		{
-		  "text": "Bright collared shirt",
-		  "aesthetics": ["kidcore"]
 		},
 		{
 		  "text": "Old sneakers",
@@ -1153,44 +1203,16 @@
 		  "aesthetics": ["kidcore"]
 		},
 		{
-		  "text": "Cozy jumper",
-		  "aesthetics": ["grandparentcore"]
-		},
-		{
-		  "text": "Plaid shirt",
-		  "aesthetics": ["grandparentcore"]
-		},
-		{
 		  "text": "Newsboy hat",
 		  "aesthetics": ["grandparentcore"]
-		},
-		{
-		  "text": "Slim-fit trousers",
-		  "aesthetics": ["dandy"]
-		},
-		{
-		  "text": "Elegant dress shirt",
-		  "aesthetics": ["dandy"]
 		},
 		{
 		  "text": "Sun-protecting hat",
 		  "aesthetics": ["desertwave"]
 		},
 		{
-		  "text": "Poncho",
-		  "aesthetics": ["desertwave"]
-		},
-		{
-		  "text": "Crop top",
-		  "aesthetics": ["baddie"]
-		},
-		{
-		  "text": "Camo pants",
-		  "aesthetics": ["baddie"]
-		},
-		{
-		  "text": "Tube top",
-		  "aesthetics": ["baddie"]
+		  "text": "Tattoos",
+		  "aesthetics": ["neo-tribal"]
 		}
 	  ]
 	},
@@ -1414,23 +1436,23 @@
 		},
 		{
 		"text": "",
-		"aesthetics": ["dark_academia"]
+		"aesthetics": [""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["cyberpunk"]
+		"aesthetics": [""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["punk", "military", "dieselpunk"]
+		"aesthetics": ["", "", ""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["military"]
+		"aesthetics": [""]
 		},
 		{
 		"text": "",
-		"aesthetics": ["rococo", "ethereal"]
+		"aesthetics": ["", ""]
 		}
 	]
 	},
@@ -1457,7 +1479,7 @@
 		},
 		{
 		"text": "Reviving old trends",
-		"aesthetics": ["art_deco", "art_nouveau", "victorian", "cyberpunk", "steampunk", "kidcore"]
+		"aesthetics": ["art_deco", "art_nouveau", "victorian", "cyberpunk", "steampunk", "kidcore", "neo-tribal"]
 		}
 	]
 	}

@@ -22,7 +22,7 @@
 		},
 		{
 		  "text": "Electronic",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "8-bit", "frutiger_metro"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "8-bit", "frutiger_metro", "seapunk"]
 		},
 		{
 		  "text": "Industrial",
@@ -65,11 +65,11 @@
 		},
 		{
 		  "text": "Natural countryside",
-		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore"]
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "ethereal"]
 		},
 		{
 		  "text": "Coastal beach",
-		  "aesthetics": ["coastal_grandmother", "nautical", "tropical"]
+		  "aesthetics": ["coastal_grandmother", "nautical", "tropical", "seapunk"]
 		},
 		{
 		  "text": "Barren desert",
@@ -104,7 +104,7 @@
 		},
 		{
 		  "text": "Romantic",
-		  "aesthetics": ["cottagecore", "romanticism", "dandy"]
+		  "aesthetics": ["cottagecore", "romanticism", "dandy", "ethereal"]
 		},
 		{
 		  "text": "Summer clothing",
@@ -154,7 +154,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore"]
+		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore", "ethereal"]
 		},
 		{
 		  "text": "Mystery",
@@ -189,7 +189,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy"]
+		  "aesthetics": ["fairycore", "fantasy", "cottagegore", "ethereal"]
 		},
 		{
 		  "text": "Thriller",
@@ -228,7 +228,7 @@
 		},
 		{
 		  "text": "Exotic cuisine",
-		  "aesthetics": ["vaporwave"]
+		  "aesthetics": ["vaporwave", "seapunk"]
 		},
 		{
 		  "text": "Fine dining",
@@ -263,7 +263,7 @@
 		},
 		{
 		  "text": "Lounging by the pool or on the beach",
-		  "aesthetics": ["vacation_dadcore", "tropical"]
+		  "aesthetics": ["vacation_dadcore", "tropical", "seapunk"]
 		}
 	  ]
 	},
@@ -312,6 +312,10 @@
 		  "aesthetics": ["cottagecore"]
 		},
 		{
+		  "text": "Fish",
+		  "aesthetics": ["seapunk"]
+		},
+		{
 		  "text": "Bird",
 		  "aesthetics": ["angelcore", "forestpunk", "tropical"]
 		},
@@ -344,7 +348,7 @@
 		},
 		{
 		  "text": "Gaming",
-		  "aesthetics": ["cyberpunk", "e-girl_e-boy", "emo", "punk", "8-bit", "cybercore", "vaporwave", "y2k", "cybergoth", "frutiger_aero"]
+		  "aesthetics": ["cyberpunk", "e-girl_e-boy", "emo", "punk", "8-bit", "cybercore", "vaporwave", "y2k", "cybergoth", "frutiger_aero", "seapunk"]
 		},
 		{
 		  "text": "Doing something artsy",
@@ -437,7 +441,7 @@
 		},
 		{
 		  "text": "Dancing",
-		  "aesthetics": ["cybergoth", "e-girl_e-boy", "punk"]
+		  "aesthetics": ["cybergoth", "e-girl_e-boy", "punk", "ethereal"]
 		},
 		{
 		  "text": "Skating",
@@ -468,7 +472,7 @@
 		},
 		{
 		  "text": "Old computers with Windows XP or Windows Vista",
-		  "aesthetics": ["bright_tertiaries", "frutiger_aero", "frutiger_metro", "y2k"]
+		  "aesthetics": ["bright_tertiaries", "frutiger_aero", "frutiger_metro", "y2k", "seapunk"]
 		},
 		{
 		  "text": "Dreamcast, Gamecube, XBOX or Playstation 2",
@@ -504,6 +508,10 @@
 		{
 		  "text": "Bathing in the sun",
 		  "aesthetics": ["vacation_dadcore"]
+		},
+		{
+		  "text": "Daydreaming",
+		  "aesthetics": ["ethereal"]
 		}
 	  ]
 	},
@@ -518,7 +526,7 @@
 		},
 		{
 		  "text": "Antique furniture",
-		  "aesthetics": ["vintage_americana", "art_deco", "victorian", "old_money", "rococo"]
+		  "aesthetics": ["vintage_americana", "art_deco", "victorian", "old_money", "rococo", "ethereal"]
 		},
 		{
 		  "text": "Colorful wall panels",
@@ -545,11 +553,11 @@
 	  "answers": [
 		{
 		  "text": "Soft pastels",
-		  "aesthetics": ["angelcore", "comfy_cozy", "sweet_lolita", "fairy_kei", "softcore", "rococo"]
+		  "aesthetics": ["angelcore", "comfy_cozy", "sweet_lolita", "fairy_kei", "softcore", "rococo", "ethereal"]
 		},
 		{
-		  "text": "Bold accent colors",
-		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "frutiger_aero", "frutiger_metro", "vaporwave"]
+		  "text": "A mix of neutral and bold colors",
+		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco"]
 		},
 		{
 		  "text": "Bright rainbow colors",
@@ -572,6 +580,10 @@
 		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "minimalism"]
 		},
 		{
+		  "text": "Cold neon colors",
+		  "aesthetics": ["seapunk", "vaporwave"]
+		},
+		{
 		  "text": "The very 2000s lime green, fuchsia, orange and teal combo",
 		  "aesthetics": ["bright_tertiaries", "frutiger_aero", "frutiger_metro", "y2k"]
 		},
@@ -592,7 +604,7 @@
 		},
 		{
 		  "text": "Abstract",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe", "seapunk"]
 		},
 		{
 		  "text": "Baroque",
@@ -620,7 +632,7 @@
 		},
 		{
 		  "text": "Graphic arts and CGI",
-		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe", "frutiger_metro", "frutiger_aero"]
+		  "aesthetics": ["y2k", "vaporwave", "cybercore", "art_academia", "art_hoe", "frutiger_metro", "frutiger_aero", "seapunk"]
 		}
 	  ]
 	},
@@ -659,11 +671,11 @@
 		},
 		{
 		  "text": "1990s",
-		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei"]
+		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei", "seapunk"]
 		},
 		{
 		  "text": "2000s",
-		  "aesthetics": ["hipster", "y2k", "frutiger_aero", "frutiger_metro", "cybercore", "emo", "downtown_girl", "neo-tribal"]
+		  "aesthetics": ["hipster", "y2k", "frutiger_aero", "frutiger_metro", "cybercore", "emo", "downtown_girl", "neo-tribal", "seapunk"]
 		},
 		{
 		  "text": "2010s",
@@ -690,7 +702,7 @@
 		},
 		{
 		  "text": "Gardening",
-		  "aesthetics": ["cottagecore"]
+		  "aesthetics": ["cottagecore", "ethereal"]
 		},
 		{
 		  "text": "Something which involves programming and/or hacking",
@@ -768,7 +780,7 @@
 		},
 		{
 		  "text": "Natural elements",
-		  "aesthetics": ["art_nouveau", "cottagecore", "classic_lolita", "sweet_lolita", "rococo", "solarpunk"]
+		  "aesthetics": ["art_nouveau", "cottagecore", "classic_lolita", "sweet_lolita", "rococo", "solarpunk", "ethereal"]
 		},
 		{
 		  "text": "Sea elements",
@@ -776,7 +788,7 @@
 		},
 		{
 			"text": "Angels",
-			"aesthetics": ["angelcore", "fairycore"]
+			"aesthetics": ["angelcore", "fairycore", "ethereal"]
 		},
 		{
 			"text": "Cute animals",
@@ -788,7 +800,7 @@
 		},
 		{
 		  "text": "No pattern, but lace",
-		  "aesthetics": ["gothic_lolita"]
+		  "aesthetics": ["gothic_lolita", "ethereal"]
 		}
 	  ]
 	},
@@ -884,8 +896,8 @@
 		  "aesthetics": ["emo", "punk"]
 		},
 		{
-		  "text": "Positivity",
-		  "aesthetics": ["vacation_dadcore"]
+		  "text": "Optimism",
+		  "aesthetics": ["vacation_dadcore", "ethereal", "seapunk"]
 		},
 		{
 		  "text": "Family bond",
@@ -929,7 +941,7 @@
 	  ]
 	},
 	{
-	  "question": "Which one of these clothing items would feel the most like you?",
+	  "question": "Which one of these fashion items would feel the most like you?",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
@@ -948,6 +960,26 @@
 		{
 		  "text": "A black flowy dress",
 		  "aesthetics": ["cottagegore"]
+		},
+		{
+		  "text": "A sweater with 3D computer imagery from the 2000s",
+		  "aesthetics": ["seapunk", "vaporwave"]
+		},
+		{
+		  "text": "A holographic shirt",
+		  "aesthetics": ["seapunk"]
+		},
+		{
+		  "text": "Blue, green or pink hair color",
+		  "aesthetics": ["seapunk"]
+		},
+		{
+		  "text": "Lipstick of an unnatural color",
+		  "aesthetics": ["seapunk"]
+		},
+		{
+		  "text": "Sunglasses",
+		  "aesthetics": ["seapunk"]
 		}
 	  ]
 	},
@@ -970,7 +1002,7 @@
 		},
 		{
 			"text": "A little cottage on the countryside",
-			"aesthetics": ["cottagecore", "cottagegore"]
+			"aesthetics": ["cottagecore", "cottagegore", "ethereal"]
 		},
 		{
 			"text": "A sunny beach",
@@ -979,7 +1011,11 @@
 		{
 			"text": "A dense forest",
 			"aesthetics": ["cottagegore", "forestpunk"]
-		} ,
+		},
+		{
+			"text": "A cathedral",
+			"aesthetics": ["ethereal", "gothic"]
+		},
 		{
 			"text": "The club!",
 			"aesthetics": ["cybergoth"]
@@ -997,15 +1033,15 @@
 	"answers": [
 		{
 		"text": "Fairies",
-		"aesthetics": ["fairycore"]
+		"aesthetics": ["fairycore", "ethereal"]
 		},
 		{
 		"text": "Forest cryptids",
 		"aesthetics": ["cottagegore"]
 		},
 		{
-		"text": "",
-		"aesthetics": ["", ""]
+		"text": "Mermaid",
+		"aesthetics": ["seapunk"]
 		},
 		{
 		"text": "",
@@ -1117,7 +1153,7 @@
 		},
 		{
 		"text": "Interior decor on Catawiki",
-		"aesthetics": ["rococo"]
+		"aesthetics": ["rococo", "ethereal"]
 		}
 	]
 	},

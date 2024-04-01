@@ -61,7 +61,7 @@
 	  "answers": [
 		{
 		  "text": "Urban cityscapes",
-		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep"]
+		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep", "solarpunk"]
 		},
 		{
 		  "text": "Natural countryside",
@@ -127,7 +127,7 @@
 	  "answers": [
 		{
 		  "text": "Sunny and warm",
-		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "tropical", "vsco"]
+		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "tropical", "vsco", "solarpunk"]
 		},
 		{
 		  "text": "Rainy and cozy",
@@ -247,7 +247,7 @@
 	  "answers": [
 		{
 		  "text": "Spending time in nature",
-		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic"]
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "solarpunk"]
 		},
 		{
 		  "text": "Exploring a new city",
@@ -352,11 +352,11 @@
 		},
 		{
 		  "text": "Doing something artsy",
-		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl"]
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk"]
 		},
 		{
 		  "text": "Gardening",
-		  "aesthetics": ["cottagecore"]
+		  "aesthetics": ["cottagecore", "solarpunk"]
 		},
 		{
 		  "text": "Baking",
@@ -522,7 +522,7 @@
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk"]
 		},
 		{
 		  "text": "Antique furniture",
@@ -612,7 +612,7 @@
 		},
 		{
 		  "text": "Art Nouveau",
-		  "aesthetics": ["art_nouveau", "art_academia", "art_hoe"]
+		  "aesthetics": ["art_nouveau", "art_academia", "art_hoe", "solarpunk"]
 		},
 		{
 		  "text": "Art Deco",
@@ -651,7 +651,7 @@
 		},
 		{
 		  "text": "19th century",
-		  "aesthetics": ["victorian", "art_nouveau", "modernism"]
+		  "aesthetics": ["victorian", "art_nouveau", "modernism", "solarpunk"]
 		},
 		{
 		  "text": "Early 20th century",
@@ -683,7 +683,7 @@
 		},
 		{
 		  "text": "How about the future?",
-		  "aesthetics": ["vaporwave"]
+		  "aesthetics": ["vaporwave", "solarpunk"]
 		}
 	  ]
 	},
@@ -693,32 +693,28 @@
 	  "answersType": "Text",
 	  "answers": [
 		{
-		"text": "Research and teaching",
+		"text": "Something related to knowledge (research, teaching...)",
 		"aesthetics": ["classic_academia", "dark_academia", "light_academia", "science_academia"]
 	  	},
 		{
 		  "text": "Something related to architecture",
-		  "aesthetics": ["art_deco", "art_nouveau", "art_academia", "mid-century_modern", "gothic"]
+		  "aesthetics": ["art_deco", "art_nouveau", "art_academia", "mid-century_modern", "gothic", "solarpunk"]
 		},
 		{
-		  "text": "Gardening",
-		  "aesthetics": ["cottagecore", "ethereal"]
+		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
+		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk"]
 		},
 		{
-		  "text": "Something which involves programming and/or hacking",
+		  "text": "Something which involves puzzling and tinkering (programming, hacking...)",
 		  "aesthetics": ["cyberpunk", "science_academia"]
 		},
 		{
-		  "text": "Enlisting in the military",
-		  "aesthetics": ["military"]
+		  "text": "Working to defend my country or people (activism, politics, military...)",
+		  "aesthetics": ["military", "punk"]
 		},
 		{
-		  "text": "Some type of activism to defend my values",
-		  "aesthetics": ["punk"]
-		},
-		{
-		  "text": "",
-		  "aesthetics": ["vsco"]
+		  "text": "Engineering for the progress of society",
+		  "aesthetics": ["solarpunk"]
 		}
 	  ]
 	},
@@ -732,16 +728,16 @@
 		"aesthetics": ["vintage_americana", "y2k", "hipster"]
 	  	},
 		{
-		"text": "China",
+		"text": "Southeast Asia",
 		"aesthetics": ["rococo"]
 		},
 		{
 		"text": "Japan",
-		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei"]
+		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei", "solarpunk"]
 		},
 		{
 		  "text": "France",
-		  "aesthetics": ["rococo", "sweet_lolita"]
+		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau"]
 		},
 		{
 		  "text": "England",
@@ -752,12 +748,12 @@
 		  "aesthetics": ["vacation_dadcore"]
 		},
 		{
-		  "text": "",
-		  "aesthetics": ["hipster", "y2k"]
+		  "text": "Africa",
+		  "aesthetics": ["solarpunk"]
 		},
 		{
 		  "text": "",
-		  "aesthetics": ["vsco"]
+		  "aesthetics": [""]
 		}
 	  ]
 	},
@@ -815,7 +811,7 @@
 	  	},
 		{
 		  "text": "Art Nouveau",
-		  "aesthetics": ["art_nouveau"]
+		  "aesthetics": ["art_nouveau", "solarpunk"]
 		},
 		{
 		  "text": "Art Deco",
@@ -888,10 +884,6 @@
 		  "aesthetics": ["comfy_cozy", "ethereal"]
 		},
 		{
-		  "text": "A sense of community",
-		  "aesthetics": ["cottagecore", "mori_kei", "morute"]
-		},
-		{
 		  "text": "Sensitiviy",
 		  "aesthetics": ["emo", "punk"]
 		},
@@ -899,21 +891,36 @@
 		  "text": "Optimism",
 		  "aesthetics": ["vacation_dadcore", "ethereal", "seapunk"]
 		},
-		{
-		  "text": "Family bond",
-		  "aesthetics": ["old_money"]
-		},
-		{
+        {
 		  "text": "Femininity",
 		  "aesthetics": ["morute", "coquette", "girly_kei", "girl_crush"]
 		},
 		{
 		  "text": "Originality",
 		  "aesthetics": ["hipster", "indie"]
+		}
+	  ]
+	},
+	{
+	  "question": "A value you won't concede?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Community",
+		  "aesthetics": ["solarpunk"]
+		},
+		{
+		  "text": "Family",
+		  "aesthetics": ["old_money"]
 		},
 		{
 		  "text": "Money and social status",
 		  "aesthetics": ["old_money"]
+		},
+		{
+		  "text": "Sustainability",
+		  "aesthetics": ["solarpunk"]
 		}
 	  ]
 	},
@@ -1087,7 +1094,7 @@
 		},
 		{
 		"text": "Sciences",
-		"aesthetics": ["science_academia"]
+		"aesthetics": ["science_academia", "solarpunk"]
 		},
 		{
 		"text": "Philosophy",
@@ -1095,7 +1102,7 @@
 		},
 		{
 		"text": "Arts",
-		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave"]
+		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk"]
 		},
 		{
 		"text": "All of them",
@@ -1172,15 +1179,15 @@
 		},
 		{
 		"text": "Progressive",
-		"aesthetics": [""]
+		"aesthetics": ["solarpunk", "cyberprep"]
 		},
 		{
 		"text": "Rebellious",
-		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal"]
+		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk"]
 		},
 		{
 		"text": "Reviving old trends",
-		"aesthetics": ["art_deco", "art_nouveau", "victorian"]
+		"aesthetics": ["art_deco", "art_nouveau", "victorian", "cyberpunk", "steampunk"]
 		}
 	]
 	}

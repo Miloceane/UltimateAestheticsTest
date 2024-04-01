@@ -65,7 +65,7 @@
 		},
 		{
 		  "text": "Natural countryside",
-		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "ethereal"]
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "ethereal", "knightcore"]
 		},
 		{
 		  "text": "Coastal beach",
@@ -127,7 +127,7 @@
 	  "answers": [
 		{
 		  "text": "Sunny and warm",
-		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "tropical", "vsco", "solarpunk"]
+		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "tropical", "vsco", "solarpunk", "knightcore"]
 		},
 		{
 		  "text": "Rainy and cozy",
@@ -320,7 +320,11 @@
 		  "aesthetics": ["angelcore", "forestpunk", "tropical"]
 		},
 		{
-		  "text": "Snake",
+		  "text": "Horse",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Reptile",
 		  "aesthetics": ["emo", "gothic", "punk"]
 		},
 		{
@@ -445,7 +449,7 @@
 		},
 		{
 		  "text": "Running",
-		  "aesthetics": ["after_hours", "cybergoth", "punk"]
+		  "aesthetics": ["after_hours", "cybergoth", "punk", "knightcore"]
 		},
 		{
 		  "text": "Weightlifting",
@@ -458,6 +462,18 @@
 		{
 		  "text": "Skating",
 		  "aesthetics": ["skater"]
+		},
+		{
+		  "text": "Horse-back riding",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Fencing",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Archery",
+		  "aesthetics": ["knightcore"]
 		}
 	  ]
 	},
@@ -558,7 +574,7 @@
 		},
 		{
 		  "text": "Religious symbols",
-		  "aesthetics": ["morute"]
+		  "aesthetics": ["morute", "knightcore"]
 		}
 	  ]
 	},
@@ -573,7 +589,7 @@
 		},
 		{
 		  "text": "A mix of neutral and bold colors",
-		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk"]
+		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk", "knightcore"]
 		},
 		{
 		  "text": "Bright rainbow colors",
@@ -730,7 +746,7 @@
 		},
 		{
 		  "text": "Working to defend my people (activism, politics, military...)",
-		  "aesthetics": ["military", "punk", "hippie", "dieselpunk"]
+		  "aesthetics": ["military", "punk", "hippie", "dieselpunk", "knightcore"]
 		},
 		{
 		  "text": "Engineering for the progress of society",
@@ -918,6 +934,10 @@
 		{
 		  "text": "Originality",
 		  "aesthetics": ["hipster", "indie"]
+		},
+		{
+		  "text": "Courage",
+		  "aesthetics": ["knightcore"]
 		}
 	  ]
 	},
@@ -941,6 +961,10 @@
 		{
 		  "text": "Sustainability",
 		  "aesthetics": ["solarpunk", "hippie"]
+		},
+		{
+		  "text": "Faith",
+		  "aesthetics": ["knightcore"]
 		}
 	  ]
 	},
@@ -1043,6 +1067,22 @@
 		{
 		  "text": "Latex gloves",
 		  "aesthetics": ["atompunk"]
+		},
+		{
+		  "text": "Metal armor",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Leather gloves",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Leather vest",
+		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "Leather cloak",
+		  "aesthetics": ["knightcore"]
 		}
 	  ]
 	},
@@ -1077,7 +1117,7 @@
 		},
 		{
 			"text": "A cathedral",
-			"aesthetics": ["ethereal", "gothic"]
+			"aesthetics": ["ethereal", "gothic", "knightcore"]
 		},
 		{
 			"text": "The club!",
@@ -1086,6 +1126,10 @@
 		{
 			"text": "An empty cemetery at night",
 			"aesthetics": ["after_hours", "cottagegore", "gothic"]
+		} ,
+		{
+			"text": "The ruins of a medieval castle",
+			"aesthetics": ["knightcore"]
 		} 
 	]
 	},
@@ -1212,7 +1256,7 @@
 		},
 		{
 		"text": "War history",
-		"aesthetics": ["military", "dieselpunk"]
+		"aesthetics": ["military", "dieselpunk", "knightcore"]
 		},
 		{
 		"text": "Interior decor on Catawiki",

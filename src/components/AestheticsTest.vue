@@ -6,12 +6,12 @@
         <div class="questions">
           <div v-if="current_question < questions_data.length" class="question" id="question">
             {{ questions_data[current_question].question }}<br><br>
-            <ul>
+            <div class="buttons">
               <div v-for="(answer, index) in questions_data[current_question].answers" :key="answer">
-                <li><button @click="compute_results(index)">{{ answer.text }}</button></li>
+                <button class="button-container" @click="compute_results(index)">{{ answer.text }}</button>
               </div>
-              <li><button @click="compute_results(-1)">None of the above</button></li>
-            </ul>
+            </div>
+            <button class="button-container" @click="compute_results(-1)"><b>None of the above</b></button>
           </div>
           <div v-else class="question">
             <b>You finished the quiz: check out the results to the right!</b><br>

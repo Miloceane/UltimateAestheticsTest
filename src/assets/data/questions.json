@@ -166,7 +166,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore", "ethereal", "dreamcore"]
+		  "aesthetics": ["fairycore", "fantasy", "dark_academia", "cottagegore", "ethereal", "dreamcore", "surrealism"]
 		},
 		{
 		  "text": "Mystery",
@@ -213,7 +213,7 @@
 	  "answers": [
 		{
 		  "text": "Fantasy",
-		  "aesthetics": ["fairycore", "fantasy", "cottagegore", "ethereal", "dreamcore"]
+		  "aesthetics": ["fairycore", "fantasy", "cottagegore", "ethereal", "dreamcore", "surrealism"]
 		},
 		{
 		  "text": "Thriller",
@@ -404,7 +404,7 @@
 		},
 		{
 		  "text": "Doing something artsy",
-		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk", "hippie", "kidcore", "grandparentcore", "mid-century_modern"]
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk", "hippie", "kidcore", "grandparentcore", "mid-century_modern", "surrealism"]
 		},
 		{
 		  "text": "Gardening",
@@ -591,7 +591,7 @@
 	  "answers": [
 		{
 		  "text": "Meditation",
-		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie", "bohemian"]
+		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie", "bohemian", "minimalism"]
 		},
 		{
 		  "text": "Reading a book",
@@ -615,7 +615,7 @@
 		},
 		{
 		  "text": "Daydreaming",
-		  "aesthetics": ["kidcore", "ethereal", "dreamcore"]
+		  "aesthetics": ["kidcore", "ethereal", "dreamcore", "surrealism"]
 		}
 	  ]
 	},
@@ -751,7 +751,7 @@
 		},
 		{
 		  "text": "Abstract",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe", "seapunk", "modernism"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe", "seapunk", "modernism", "surrealism"]
 		},
 		{
 		  "text": "Baroque",
@@ -806,7 +806,7 @@
 		},
 		{
 		  "text": "Early 20th century",
-		  "aesthetics": ["art_deco", "modernism", "dieselpunk"]
+		  "aesthetics": ["art_deco", "modernism", "dieselpunk", "surrealism"]
 		},
 		{
 		  "text": "1950s-1960s",
@@ -896,7 +896,7 @@
 		},
 		{
 		  "text": "France",
-		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau", "dandy", "baroque"]
+		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau", "dandy", "baroque", "surrealism"]
 		},
 		{
 		  "text": "England",
@@ -1044,7 +1044,7 @@
 		},
 		{
 		  "text": "Imagination",
-		  "aesthetics": ["dreamcore", "kawaii", "fairycore", "coquette", "softcore"]
+		  "aesthetics": ["dreamcore", "kawaii", "fairycore", "coquette", "softcore", "surrealism"]
 		},
 		{
 		  "text": "Calmness",
@@ -1068,7 +1068,7 @@
 		},
 		{
 		  "text": "Originality",
-		  "aesthetics": ["hipster", "indie", "dandy"]
+		  "aesthetics": ["hipster", "indie", "dandy", "surrealism"]
 		},
 		{
 		  "text": "Courage",
@@ -1449,7 +1449,7 @@
 		},
 		{
 		"text": "Forest cryptids",
-		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism"]
+		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism", "surrealism"]
 		},
 		{
 		"text": "Area 51 alien creatures",
@@ -1457,11 +1457,11 @@
 		},
 		{
 		"text": "Creatures from Alice in Wonderland",
-		"aesthetics": ["dreamcore"]
+		"aesthetics": ["dreamcore", "surrealism"]
 		},
 		{
 		"text": "Animals from the Miyazaki movies",
-		"aesthetics": ["kidcore", "dreamcore", "solarpunk"]
+		"aesthetics": ["kidcore", "dreamcore", "solarpunk", "surrealism"]
 		}
 	]
 	},
@@ -1534,7 +1534,7 @@
 		},
 		{
 		"text": "Arts",
-		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk", "hippie", "modernism"]
+		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk", "hippie", "modernism", "surrealism"]
 		},
 		{
 		"text": "All of them",
@@ -1543,10 +1543,14 @@
 	]
 	},
 	{
-	"question": "If you make art, what is your favourite art medium to use?",
+	"question": "If you make visual art, what is your favourite art medium to use?",
 	"question_subtype": "General",
 	"answersType": "Text",
 	"answers": [
+		{
+		"text": "Paint",
+		"aesthetics": ["surrealism"]
+		},
 		{
 		"text": "Stickers",
 		"aesthetics": ["decora", "kidcore"]
@@ -1611,7 +1615,7 @@
 		},
 		{
 		"text": "Supernatural stuff",
-		"aesthetics": ["dark_naturalism", "dreamcore"]
+		"aesthetics": ["dark_naturalism", "dreamcore", "surrealism"]
 		}
 	]
 	},

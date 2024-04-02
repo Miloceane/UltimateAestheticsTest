@@ -96,7 +96,7 @@
 		},
 		{
 		"text": "Vintage",
-		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern", "fairy_kei"]
+		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern", "fairy_kei", "steampunk"]
 		},
 		{
 		  "text": "Gothic",
@@ -455,7 +455,7 @@
 		  },
 		  {
 			"text": "Bioshock",
-			"aesthetics": ["dieselpunk"]
+			"aesthetics": ["dieselpunk", "steampunk"]
 		  },
 		  {
 			"text": "Fallout",
@@ -560,11 +560,11 @@
 		},
 		{
 		  "text": "Cars, airplanes, spaceships",
-		  "aesthetics": ["art_deco", "dieselpunk", "atompunk"]
+		  "aesthetics": ["art_deco", "dieselpunk", "atompunk", "steampunk"]
 		},
 		{
 		  "text": "Robotics",
-		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave", "cyberprep", "atompunk"]
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "vaporwave", "cyberprep", "atompunk", "steampunk"]
 		},
 		{
 		  "text": "Atomic energy",
@@ -634,7 +634,7 @@
 		},
 		{
 		  "text": "Eclectic and opulent",
-		  "aesthetics": ["bohemian", "baroque"]
+		  "aesthetics": ["bohemian", "baroque", "steampunk"]
 		},
 		{
 		  "text": "Futuristic and high-tech",
@@ -708,7 +708,7 @@
 		},
 		{
 		  "text": "Deep colors with some silver or gold",
-		  "aesthetics": ["glam", "atompunk", "knightcore", "kidcore", "grandparentcore", "dandy", "baroque"]
+		  "aesthetics": ["glam", "atompunk", "knightcore", "kidcore", "grandparentcore", "dandy", "baroque", "steampunk"]
 		},
 		{
 		  "text": "Muted colors",
@@ -720,7 +720,7 @@
 		},
 		{
 		  "text": "Dark earth or muted tones",
-		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie"]
+		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie", "steampunk"]
 		},
 		{
 		  "text": "Monochrome black and white",
@@ -802,7 +802,7 @@
 		},
 		{
 		  "text": "19th century",
-		  "aesthetics": ["victorian", "art_nouveau", "modernism", "solarpunk", "dandy"]
+		  "aesthetics": ["victorian", "art_nouveau", "modernism", "solarpunk", "dandy", "steampunk"]
 		},
 		{
 		  "text": "Early 20th century",
@@ -900,7 +900,7 @@
 		},
 		{
 		  "text": "England",
-		  "aesthetics": ["victorian", "cottagecore", "dark_academia", "classic_lolita", "dandy"]
+		  "aesthetics": ["victorian", "cottagecore", "dark_academia", "classic_lolita", "dandy", "steampunk"]
 		},
 		{
 		  "text": "Southern Europe",
@@ -1001,8 +1001,8 @@
 		  "aesthetics": ["bohemian", "hippie"]
 		},
 		{
-		  "text": "19th century",
-		  "aesthetics": ["victorian"]
+		  "text": "19th century Victorian",
+		  "aesthetics": ["victorian", "steampunk"]
 		},
 		{
 		  "text": "Rococo",
@@ -1081,6 +1081,10 @@
 		{
 		  "text": "Rationality",
 		  "aesthetics": ["modernism", "minimalism"]
+		},
+		{
+		  "text": "Productivity",
+		  "aesthetics": ["steampunk"]
 		}
 	  ]
 	},
@@ -1178,7 +1182,7 @@
 		},
 		{
 		  "text": "A dark waistcoat",
-		  "aesthetics": ["dieselpunk", "dandy"]
+		  "aesthetics": ["dieselpunk", "dandy", "steampunk"]
 		},
 		{
 		  "text": "Metal armor",
@@ -1258,6 +1262,10 @@
 		{
 		  "text": "Tulle skirt",
 		  "aesthetics": ["decora", "fairy_kei"]
+		},
+		{
+		  "text": "Crinoline skirt",
+		  "aesthetics": ["steampunk"]
 		}
 	  ]
 	},
@@ -1325,6 +1333,10 @@
 		{
 		  "text": "A simple leather belt",
 		  "aesthetics": ["minimalism"]
+		},
+		{
+		  "text": "A top hat",
+		  "aesthetics": ["steampunk"]
 		}
 	  ]
 	},
@@ -1360,6 +1372,10 @@
 		{
 		  "text": "Rainbow hair clips",
 		  "aesthetics": ["decora"]
+		},
+		{
+		  "text": "Goggles",
+		  "aesthetics": ["steampunk"]
 		}
 	  ]
 	},
@@ -1502,11 +1518,11 @@
 	"answers": [
 		{
 		"text": "History",
-		"aesthetics": ["dark_academia", "victorian", "rococo", "military", "dark_naturalism", "modernism"]
+		"aesthetics": ["dark_academia", "victorian", "rococo", "military", "dark_naturalism", "modernism", "steampunk"]
 		},
 		{
 		"text": "Literature",
-		"aesthetics": ["dark_academia"]
+		"aesthetics": ["dark_academia", "steampunk"]
 		},
 		{
 		"text": "Sciences",

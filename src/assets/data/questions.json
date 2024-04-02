@@ -6,11 +6,11 @@
 	  "answers": [
 		{
 		  "text": "Pop",
-		  "aesthetics": ["basic", "angelcore", "cottagecore", "glam", "girly_kei", "kawaii", "preppy", "sweet_lolita", "vsco", "dreamcore"]
+		  "aesthetics": ["basic", "angelcore", "cottagecore", "glam", "girly_kei", "kawaii", "preppy", "sweet_lolita", "vsco", "dreamcore", "mid-century_modern"]
 		},
 		{
 		  "text": "Rock",
-		  "aesthetics": ["8-bit", "gothic", "grunge", "skater", "hipster", "punk", "downtown_girl", "y2k", "neo-tribal"]
+		  "aesthetics": ["8-bit", "gothic", "grunge", "skater", "hipster", "punk", "downtown_girl", "y2k", "neo-tribal", "mid-century_modern"]
 		},
 		{
 		  "text": "Punk",
@@ -65,7 +65,7 @@
 	  "answers": [
 		{
 		  "text": "Urban cityscapes",
-		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep", "solarpunk", "neo-tribal"]
+		  "aesthetics": ["after_hours", "cyberpunk", "downtown_girl", "urbancore", "vaporwave", "cyberprep", "solarpunk", "neo-tribal", "mid-century_modern"]
 		},
 		{
 		  "text": "Natural countryside",
@@ -92,7 +92,7 @@
 		},
 		{
 		"text": "Vintage",
-		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie"]
+		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern"]
 		},
 		{
 		  "text": "Gothic",
@@ -190,7 +190,7 @@
 		},
 		{
 		  "text": "Poetry",
-		  "aesthetics": ["dark_naturalism", "indie", "dark_academia"]
+		  "aesthetics": ["dark_naturalism", "indie", "dark_academia", "baroque"]
 		}
 	  ]
 	},
@@ -218,6 +218,10 @@
 		{
 		"text": "Action",
 		"aesthetics": ["after_hours", "gothic", "grunge"]
+		},
+		{
+		  "text": "Drama",
+		  "aesthetics": ["baroque", "emo"]
 		},
 		{
 		"text": "Documentaries",
@@ -263,7 +267,7 @@
 	  "answers": [
 		{
 		  "text": "Spending time in nature",
-		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "solarpunk", "witchcore", "dark_naturalism"]
+		  "aesthetics": ["adventurecore", "cottagecore", "forestpunk", "mori_kei", "rustic", "solarpunk", "witchcore", "dark_naturalism", "baroque"]
 		},
 		{
 		  "text": "Exploring a new city",
@@ -294,7 +298,7 @@
 		},
 		{
 		  "text": "Driving",
-		  "aesthetics": ["basic", "preppy"]
+		  "aesthetics": ["basic", "preppy", "mid-century_modern"]
 		},
 		{
 		  "text": "Public transit",
@@ -380,7 +384,7 @@
 		},
 		{
 		  "text": "Doing something artsy",
-		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk", "hippie", "kidcore", "grandparentcore"]
+		  "aesthetics": ["art_academia", "art_hoe", "art_deco", "art_nouveau", "victorian", "hipster", "vaporwave", "rococo", "morute", "downtown_girl", "solarpunk", "hippie", "kidcore", "grandparentcore", "mid-century_modern"]
 		},
 		{
 		  "text": "Gardening",
@@ -404,7 +408,7 @@
 		},
 		{
 		  "text": "Playing music",
-		  "aesthetics": ["hippie"]
+		  "aesthetics": ["hippie", "mid-century_modern"]
 		}
 	  ]
 	},
@@ -454,7 +458,7 @@
 	  "answers": [
 		{
 		  "text": "Intimate dinner party",
-		  "aesthetics": ["angelcore", "cottagecore", "emo", "mori_kei", "sweet_lolita"]
+		  "aesthetics": ["angelcore", "cottagecore", "emo", "mori_kei", "sweet_lolita", "baroque"]
 		},
 		{
 		  "text": "Outdoor picnic",
@@ -532,7 +536,7 @@
 		},
 		{
 		  "text": "Vintage camera",
-		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana", "morute", "downtown_girl", "dark_academia", "hipster", "grandparentcore", "indie"]
+		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana", "morute", "downtown_girl", "dark_academia", "hipster", "grandparentcore", "indie", "mid-century_modern"]
 		},
 		{
 		  "text": "Cars, airplanes, spaceships",
@@ -596,25 +600,48 @@
 	  ]
 	},
 	{
-	  "question": "What is your favorite type of decor?",
+	  "question": "How would you describe your dream living room?",
+	  "question_subtype": "General",
+	  "answersType": "Text",
+	  "answers": [
+		{
+		  "text": "Minimalist and sleek",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "minimalism", "mid-century_modern", "modernism"]
+		},
+		{
+		  "text": "Antique or vintage",
+		  "aesthetics": ["vintage_americana", "art_deco", "victorian", "old_money"]
+		},
+		{
+		  "text": "Eclectic and opulent",
+		  "aesthetics": ["bohemian", "baroque"]
+		},
+		{
+		  "text": "Futuristic and high-tech",
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "frutiger_aero", "cyberprep"]
+		},
+		{
+		  "text": "Comfortable and not too serious",
+		  "aesthetics": ["grandparentcore", "bohemian", "softcore"]
+		},
+		{
+		  "text": "As many plants as possible",
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "solarpunk", "hippie", "witchcore"]
+		}		
+	  ]
+	},
+	{
+	  "question": "And what type of item would you like to feature most in this living room?",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian", "baroque"]
 		},
 		{
 		  "text": "Antique furniture",
-		  "aesthetics": ["vintage_americana", "art_deco", "victorian", "old_money", "rococo", "ethereal", "witchcore"]
-		},
-		{
-		  "text": "Minimalist and sleek",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "minimalism"]
-		},
-		{
-		  "text": "Futuristic and high-tech",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "frutiger_aero", "cyberprep"]
+		  "aesthetics": ["victorian", "old_money", "rococo", "ethereal", "witchcore"]
 		},
 		{
 		  "text": "Arts and crafts I made",
@@ -622,11 +649,11 @@
 		},
 		{
 		  "text": "Colorful wall panels",
-		  "aesthetics": ["rococo"]
+		  "aesthetics": ["rococo", "baroque"]
 		},
 		{
 		  "text": "Religious symbols",
-		  "aesthetics": ["morute", "knightcore", "neo-tribal", "dark_naturalism"]
+		  "aesthetics": ["morute", "knightcore", "neo-tribal", "dark_naturalism", "baroque"]
 		},
 		{
 		  "text": "Colorful stuffed animals, figurines or posters",
@@ -638,7 +665,7 @@
 		},
 		{
 		  "text": "Tapestries",
-		  "aesthetics": ["bohemian"]
+		  "aesthetics": ["bohemian", "baroque"]
 		}		
 	  ]
 	},
@@ -652,12 +679,16 @@
 		  "aesthetics": ["angelcore", "comfy_cozy", "sweet_lolita", "fairy_kei", "softcore", "rococo", "ethereal"]
 		},
 		{
-		  "text": "A mix of neutral and bold colors",
-		  "aesthetics": ["basic", "glam", "kawaii", "preppy", "tropical", "vsco", "hippie", "atompunk", "knightcore", "kidcore", "grandparentcore", "witchcore", "dandy", "baddie"]
+		  "text": "A mix of neutral with a few bold colors",
+		  "aesthetics": ["basic", "preppy", "tropical", "vsco", "hippie", "grandparentcore", "witchcore", "dandy", "baddie"]
 		},
 		{
 		  "text": "Bright rainbow colors",
-		  "aesthetics": ["decora", "kidcore", "hippie", "atompunk", "dreamcore"]
+		  "aesthetics": ["decora", "kawaii", "kidcore", "hippie", "atompunk", "dreamcore", "baroque"]
+		},
+		{
+		  "text": "Deep colors with some silver or gold",
+		  "aesthetics": ["glam", "atompunk", "knightcore", "kidcore", "grandparentcore", "dandy", "baroque"]
 		},
 		{
 		  "text": "Muted colors",
@@ -665,7 +696,7 @@
 		},
 		{
 		  "text": "Neutral earth tones",
-		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian"]
+		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian", "modernism"]
 		},
 		{
 		  "text": "Dark earth or muted tones",
@@ -673,7 +704,7 @@
 		},
 		{
 		  "text": "Monochrome black and white",
-		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "minimalism", "neo-tribal"]
+		  "aesthetics": ["cybergoth", "cyberpunk", "punk", "minimalism", "neo-tribal", "modernism"]
 		},
 		{
 		  "text": "Cold neon colors",
@@ -696,11 +727,11 @@
 	  "answers": [
 		{
 		  "text": "Impressionism",
-		  "aesthetics": ["angelcore", "romanticism", "surrealism", "art_academia", "art_hoe", "dreamcore"]
+		  "aesthetics": ["angelcore", "romanticism", "surrealism", "art_academia", "art_hoe", "dreamcore", "modernism"]
 		},
 		{
 		  "text": "Abstract",
-		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe", "seapunk"]
+		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "vaporwave", "art_academia", "art_hoe", "seapunk", "modernism"]
 		},
 		{
 		  "text": "Baroque",
@@ -712,7 +743,7 @@
 		},
 		{
 		  "text": "Art Deco",
-		  "aesthetics": ["art_deco", "art_academia", "art_hoe"]
+		  "aesthetics": ["art_deco", "art_academia", "art_hoe", "mid-century_modern"]
 		},
 		{
 		  "text": "Renaissance",
@@ -743,11 +774,11 @@
 	  "answers": [
 		{
 		"text": "The middle ages",
-		"aesthetics": ["fantasy", "knightcore"]
+		"aesthetics": ["fantasy", "knightcore", "baroque"]
 	  	},
 		{
 		  "text": "18th century",
-		  "aesthetics": ["rococo", "victorian", "dandy"]
+		  "aesthetics": ["rococo", "victorian", "dandy", "baroque"]
 		},
 		{
 		  "text": "19th century",
@@ -783,7 +814,7 @@
 		},
 		{
 		  "text": "How about the future?",
-		  "aesthetics": ["vaporwave", "solarpunk", "atompunk"]
+		  "aesthetics": ["vaporwave", "solarpunk", "atompunk", "modernism"]
 		}
 	  ]
 	},
@@ -797,8 +828,12 @@
 		"aesthetics": ["classic_academia", "dark_academia", "light_academia", "science_academia"]
 	  	},
 		{
-		  "text": "Something related to art",
-		  "aesthetics": ["art_deco", "art_nouveau", "art_academia", "art_hoe", "mid-century_modern", "gothic", "solarpunk", "witchcore", "dark_naturalism"]
+		"text": "Something related to architecture or design",
+		"aesthetics": ["art_deco", "art_nouveau", "art_academia", "mid-century_modern", "gothic", "solarpunk", "dark_naturalism", "modernism", "baroque"]
+		},
+		{
+		"text": "Something related to visual art",
+		"aesthetics": ["art_academia", "art_hoe", "witchcore"]
 		},
 		{
 		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
@@ -813,7 +848,7 @@
 		  "aesthetics": ["military", "punk", "hippie", "dieselpunk", "knightcore"]
 		},
 		{
-		  "text": "Engineering for the progress of society",
+		  "text": "Something related to engineering for the progress of society",
 		  "aesthetics": ["solarpunk", "dieselpunk", "atompunk"]
 		},
 		{
@@ -829,7 +864,7 @@
 	  "answers": [
 		{
 		"text": "The USA",
-		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave"]
+		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave", "mid-century_modern"]
 	  	},
 		{
 		"text": "Southeast Asia",
@@ -841,11 +876,15 @@
 		},
 		{
 		  "text": "France",
-		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau", "dandy"]
+		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau", "dandy", "baroque"]
 		},
 		{
 		  "text": "England",
 		  "aesthetics": ["victorian", "cottagecore", "dark_academia", "classic_lolita", "dandy"]
+		},
+		{
+		  "text": "Southern Europe",
+		  "aesthetics": ["baroque"]
 		},
 		{
 		  "text": "Pacific islands",
@@ -868,7 +907,7 @@
 	  "answers": [
 		{
 		  "text": "A neat geometric pattern",
-		  "aesthetics": ["art_deco", "bright_tertiaries", "neo-tribal"]
+		  "aesthetics": ["art_deco", "bright_tertiaries", "neo-tribal", "mid-century_modern"]
 		},
 		{
 		  "text": "Sprawling or spiral patterns",
@@ -888,7 +927,7 @@
 		},
 		{
 			"text": "Angels",
-			"aesthetics": ["angelcore", "fairycore", "ethereal", "neo-tribal"]
+			"aesthetics": ["angelcore", "fairycore", "ethereal", "neo-tribal", "baroque"]
 		},
 		{
 			"text": "Cute animals",
@@ -919,11 +958,11 @@
 		},
 		{
 		  "text": "Art Deco",
-		  "aesthetics": ["art_deco"]
+		  "aesthetics": ["art_deco", "mid-century_modern"]
 		},
 		{
 		  "text": "Modernist",
-		  "aesthetics": ["modernism"]
+		  "aesthetics": ["modernism", "mid-century_modern"]
 		},
 		{
 		  "text": "Mid-century modern",
@@ -943,7 +982,7 @@
 		},
 		{
 		  "text": "Rococo",
-		  "aesthetics": ["rococo"]
+		  "aesthetics": ["rococo", "baroque"]
 		}
 	  ]
 	},
@@ -1014,6 +1053,10 @@
 		{
 		  "text": "Self-confidence",
 		  "aesthetics": ["baddie"]
+		},
+		{
+		  "text": "Rationality",
+		  "aesthetics": ["modernism"]
 		}
 	  ]
 	},
@@ -1045,6 +1088,10 @@
 		{
 		  "text": "Faith",
 		  "aesthetics": ["knightcore"]
+		},
+		{
+		  "text": "No value should be that strict!",
+		  "aesthetics": ["modernism"]
 		}
 	  ]
 	},
@@ -1282,7 +1329,7 @@
 		},
 		{
 			"text": "A little cottage on the countryside",
-			"aesthetics": ["cottagecore", "cottagegore", "ethereal", "grandparentcore", "witchcore"]
+			"aesthetics": ["cottagecore", "cottagegore", "ethereal", "grandparentcore", "witchcore", "baroque"]
 		},
 		{
 			"text": "A sunny beach",
@@ -1294,7 +1341,7 @@
 		},
 		{
 			"text": "A cathedral",
-			"aesthetics": ["ethereal", "gothic", "knightcore"]
+			"aesthetics": ["ethereal", "gothic", "knightcore", "baroque"]
 		},
 		{
 			"text": "The club!",
@@ -1325,7 +1372,7 @@
 		},
 		{
 		"text": "Mermaids",
-		"aesthetics": ["seapunk", "dreamcore"]
+		"aesthetics": ["seapunk", "dreamcore", "baroque"]
 		},
 		{
 		"text": "Ghosts",
@@ -1398,7 +1445,7 @@
 	"answers": [
 		{
 		"text": "History",
-		"aesthetics": ["dark_academia", "victorian", "rococo", "military", "dark_naturalism"]
+		"aesthetics": ["dark_academia", "victorian", "rococo", "military", "dark_naturalism", "modernism"]
 		},
 		{
 		"text": "Literature",
@@ -1410,15 +1457,30 @@
 		},
 		{
 		"text": "Philosophy",
-		"aesthetics": ["dark_academia", "hipster", "dieselpunk", "indie"]
+		"aesthetics": ["dark_academia", "hipster", "dieselpunk", "indie", "modernism"]
 		},
 		{
 		"text": "Arts",
-		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk", "hippie"]
+		"aesthetics": ["art_academia", "art_hoe", "frutiger_aero", "rococo", "morute", "vaporwave", "solarpunk", "hippie", "modernism"]
 		},
 		{
 		"text": "All of them",
 		"aesthetics": ["preppy"]
+		}
+	]
+	},
+	{
+	"question": "If you make art, what is your favourite art medium to use?",
+	"question_subtype": "General",
+	"answersType": "Text",
+	"answers": [
+		{
+		"text": "All of them",
+		"aesthetics": [""]
+		},
+		{
+		"text": "Anything that I've never heard of before",
+		"aesthetics": ["modernism"]
 		}
 	]
 	},
@@ -1512,7 +1574,7 @@
 	]
 	},
 	{
-	"question": "Do you tend to be...",
+	"question": "You tend to be...",
 	"question_subtype": "General",
 	"answersType": "Text",
 	"answers": [
@@ -1526,15 +1588,15 @@
 		},
 		{
 		"text": "Progressive",
-		"aesthetics": ["solarpunk", "cyberprep", "dandy"]
+		"aesthetics": ["solarpunk", "cyberprep", "dandy", "modernism"]
 		},
 		{
 		"text": "Rebellious",
-		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk", "hippie", "atompunk", "dieselpunk"]
+		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk", "hippie", "atompunk", "dieselpunk", "modernism"]
 		},
 		{
 		"text": "Reviving old trends",
-		"aesthetics": ["art_deco", "art_nouveau", "victorian", "cyberpunk", "steampunk", "kidcore", "neo-tribal"]
+		"aesthetics": ["art_deco", "art_nouveau", "victorian", "cyberpunk", "steampunk", "kidcore", "neo-tribal", "mid-century_modern"]
 		}
 	]
 	}

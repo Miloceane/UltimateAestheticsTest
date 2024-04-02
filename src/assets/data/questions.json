@@ -49,6 +49,10 @@
 		  "aesthetics": ["girl_crush", "e-girl_e-boy", "softcore"]
 		},
 		{
+		  "text": "J-Pop",
+		  "aesthetics": ["decora"]
+		},
+		{
 		  "text": "Alt-pop",
 		  "aesthetics": ["downtown_girl", "neo-tribal"]
 		},
@@ -88,11 +92,11 @@
 	  "answers": [
 		{
 			"text": "Casual",
-			"aesthetics": ["basic", "softcore", "comfy_cozy"]
+			"aesthetics": ["basic", "softcore", "comfy_cozy", "decora"]
 		},
 		{
 		"text": "Vintage",
-		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern"]
+		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern", "fairy_kei"]
 		},
 		{
 		  "text": "Gothic",
@@ -124,7 +128,7 @@
 		},
 		{
 		  "text": "Anti fashion",
-		  "aesthetics": ["grunge"]
+		  "aesthetics": ["grunge", "minimalism"]
 		}
 	  ]
 	},
@@ -191,11 +195,19 @@
 		{
 		  "text": "Poetry",
 		  "aesthetics": ["dark_naturalism", "indie", "dark_academia", "baroque"]
+		},
+		{
+		  "text": "Manga",
+		  "aesthetics": ["decora", "fairy_kei"]
+		},
+		{
+		  "text": "Fashion magazines",
+		  "aesthetics": ["decora", "baddie"]
 		}
 	  ]
 	},
 	{
-	  "question": "And what type of movies do you enjoy watching?",
+	  "question": "And what type of shows or movies do you enjoy watching?",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
@@ -232,6 +244,10 @@
 		"aesthetics": ["gothic", "surrealism", "horror", "vaporwave", "dreamcore"]
 		},
 		{
+		"text": "Anime",
+		"aesthetics": ["decora", "softcore", "fairy_kei"]
+		},
+		{
 		"text": "Indie",
 		"aesthetics": ["indie"]
 		}
@@ -257,6 +273,10 @@
 		{
 		  "text": "Fast food",
 		  "aesthetics": ["basic", "punk"]
+		},
+		{
+		  "text": "Sweet desserts",
+		  "aesthetics": ["fairy_kei", "sweet_lolita", "softcore"]
 		}
 	  ]
 	},
@@ -309,8 +329,8 @@
 		  "aesthetics": ["basic", "punk"]
 		},
 		{
-		  "text": "Skating",
-		  "aesthetics": ["skater"]
+		  "text": "Skating or rollerblading",
+		  "aesthetics": ["skater", "decora"]
 		}
 	  ]
 	},
@@ -392,7 +412,7 @@
 		},
 		{
 		  "text": "Watching anime",
-		  "aesthetics": ["softcore"]
+		  "aesthetics": ["softcore", "decora", "fairy_kei"]
 		},
 		{
 		  "text": "Chilling and watching Tik Tok or Youtube",
@@ -532,11 +552,11 @@
 	  "answers": [
 		{
 		  "text": "Smartphone",
-		  "aesthetics": ["basic", "e-girl_e-boy", "kawaii", "preppy", "vsco", "morute", "downtown_girl"]
+		  "aesthetics": ["basic", "e-girl_e-boy", "kawaii", "preppy", "vsco", "morute", "downtown_girl", "decora"]
 		},
 		{
 		  "text": "Vintage camera",
-		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana", "morute", "downtown_girl", "dark_academia", "hipster", "grandparentcore", "indie", "mid-century_modern"]
+		  "aesthetics": ["art_academia", "classic_academia", "light_academia", "vintage_americana", "morute", "downtown_girl", "dark_academia", "hipster", "grandparentcore", "indie", "mid-century_modern", "decora"]
 		},
 		{
 		  "text": "Cars, airplanes, spaceships",
@@ -583,7 +603,7 @@
 		},
 		{
 		  "text": "Watching TV, movies or Youtube",
-		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore", "baddie"]
+		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore", "baddie", "decora"]
 		},
 		{
 		  "text": "Sunbathing",
@@ -591,7 +611,7 @@
 		},
 		{
 		  "text": "Journaling",
-		  "aesthetics": ["kidcore", "dark_naturalism"]
+		  "aesthetics": ["kidcore", "dark_naturalism", "decora"]
 		},
 		{
 		  "text": "Daydreaming",
@@ -657,7 +677,7 @@
 		},
 		{
 		  "text": "Colorful stuffed animals, figurines or posters",
-		  "aesthetics": ["kidcore", "softcore"]
+		  "aesthetics": ["kidcore", "softcore", "decora", "fairy_kei"]
 		},
 		{
 		  "text": "Glass bottles and vases",
@@ -692,7 +712,7 @@
 		},
 		{
 		  "text": "Muted colors",
-		  "aesthetics": ["classic_lolita", "cottagegore", "softcore", "indie"]
+		  "aesthetics": ["classic_lolita", "cottagegore", "softcore", "indie", "minimalism"]
 		},
 		{
 		  "text": "Neutral earth tones",
@@ -708,7 +728,7 @@
 		},
 		{
 		  "text": "Cold neon colors",
-		  "aesthetics": ["seapunk", "vaporwave"]
+		  "aesthetics": ["seapunk", "vaporwave", "fairy_kei"]
 		},
 		{
 		  "text": "The very 2000s lime green, fuchsia, orange and teal combo",
@@ -790,11 +810,11 @@
 		},
 		{
 		  "text": "1950s-1960s",
-		  "aesthetics": ["atompunk", "coquette", "preppy", "mid-century_modern", "hippie", "bohemian"]
+		  "aesthetics": ["atompunk", "coquette", "preppy", "mid-century_modern", "hippie", "bohemian", "minimalism"]
 		},
 		{
 		  "text": "1970s",
-		  "aesthetics": ["punk", "gothic", "coquette", "kawaii", "horror", "downtown_girl", "bohemian", "hippie"]
+		  "aesthetics": ["punk", "gothic", "coquette", "kawaii", "horror", "downtown_girl", "bohemian", "hippie", "minimalism"]
 		},
 		{
 		  "text": "1980s",
@@ -802,7 +822,7 @@
 		},
 		{
 		  "text": "1990s",
-		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei", "seapunk", "kidcore", "baddie"]
+		  "aesthetics": ["vaporwave", "y2k", "cybercore", "downtown_girl", "sweet_lolita", "gothic_lolita", "decora", "girly_kei", "seapunk", "kidcore", "baddie", "fairy_kei"]
 		},
 		{
 		  "text": "2000s",
@@ -810,7 +830,7 @@
 		},
 		{
 		  "text": "2010s",
-		  "aesthetics": ["vsco", "frutiger_aero", "frutiger_metro", "downtown_girl", "dreamcore", "morute", "indie"]
+		  "aesthetics": ["vsco", "frutiger_aero", "frutiger_metro", "downtown_girl", "dreamcore", "morute", "indie", "minimalism"]
 		},
 		{
 		  "text": "How about the future?",
@@ -872,7 +892,7 @@
 		},
 		{
 		"text": "Japan",
-		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei"]
+		"aesthetics": ["art_nouveau", "girly_kei", "kawaii", "vaporwave", "mori_kei", "decora", "classic_lolita", "sweet_lolita", "gothic_lolita", "fairy_kei", "minimalism"]
 		},
 		{
 		  "text": "France",
@@ -901,7 +921,7 @@
 	  ]
 	},
 	{
-	  "question": "Favourite pattern print?",
+	  "question": "Favourite pattern print for an accent wallpaper?",
 	  "question_subtype": "General",
 	  "answersType": "Text",
 	  "answers": [
@@ -914,7 +934,7 @@
 		  "aesthetics": ["frutiger_aero", "frutiger_metro", "bright_tertiaries", "hippie"]
 		},
 		{
-		  "text": "Intricate curvy shapes",
+		  "text": "Intricate rococo-like curvy shapes",
 		  "aesthetics": ["rococo", "baroque"]
 		},
 		{
@@ -934,12 +954,16 @@
 			"aesthetics": ["cottagecore", "classic_lolita", "sweet_lolita"]
 		},
 		{
+		  "text": "Polka dots",
+		  "aesthetics": ["fairy_kei"]
+		},
+		{
 		  "text": "Something that looks or feels bubbly",
 		  "aesthetics": ["frutiger_aero", "dreamcore"]
 		},
 		{
-		  "text": "No pattern, but lace",
-		  "aesthetics": ["gothic_lolita", "ethereal"]
+		  "text": "No pattern",
+		  "aesthetics": ["minimalism", "ethereal"]
 		}
 	  ]
 	},
@@ -962,7 +986,7 @@
 		},
 		{
 		  "text": "Modernist",
-		  "aesthetics": ["modernism", "mid-century_modern"]
+		  "aesthetics": ["modernism", "mid-century_modern", "minimalism"]
 		},
 		{
 		  "text": "Mid-century modern",
@@ -1056,7 +1080,7 @@
 		},
 		{
 		  "text": "Rationality",
-		  "aesthetics": ["modernism"]
+		  "aesthetics": ["modernism", "minimalism"]
 		}
 	  ]
 	},
@@ -1079,7 +1103,7 @@
 		},
 		{
 		  "text": "Sustainability",
-		  "aesthetics": ["solarpunk", "hippie", "softcore"]
+		  "aesthetics": ["solarpunk", "hippie", "softcore", "minimalism"]
 		},
 		{
 		  "text": "Freedom",
@@ -1110,7 +1134,11 @@
 		},
 		{
 		  "text": "Candies",
-		  "aesthetics": ["sweet_lolita"]
+		  "aesthetics": ["sweet_lolita", "fairy_kei"]
+		},
+		{
+		  "text": "Milk shake",
+		  "aesthetics": ["fairy_kei"]
 		},
 		{
 		  "text": "Fresh bread (still warm from the oven)",
@@ -1128,12 +1156,17 @@
 	  "answersType": "Text",
 	  "answers": [
 		{
+			"text": "A white t-shirt",
+			"aesthetics": ["minimalism"]
+		},
+		{
 		  "text": "A military uniform vest",
 		  "aesthetics": ["military"]
 		},
+		
 		{
 		  "text": "A sweater with 3D computer imagery from the 2000s",
-		  "aesthetics": ["seapunk", "vaporwave"]
+		  "aesthetics": ["seapunk", "vaporwave", "fairy_kei"]
 		},
 		{
 		  "text": "A holographic shirt",
@@ -1141,7 +1174,7 @@
 		},
 		{
 		  "text": "A tie-dye shirt",
-		  "aesthetics": ["hippie", "bohemian"]
+		  "aesthetics": ["hippie", "bohemian", "decora"]
 		},
 		{
 		  "text": "A dark waistcoat",
@@ -1156,8 +1189,8 @@
 		  "aesthetics": ["knightcore", "desertwave"]
 		},
 		{
-		  "text": "Bright collared shirt",
-		  "aesthetics": ["kidcore"]
+		  "text": "Bright colorful collared shirt",
+		  "aesthetics": ["kidcore", "decora"]
 		},
 		{
 		  "text": "Cozy jumper",
@@ -1169,7 +1202,7 @@
 		},
 		{
 		  "text": "Elegant dress shirt",
-		  "aesthetics": ["dandy"]
+		  "aesthetics": ["dandy", "minimalism"]
 		},
 		{
 		  "text": "Poncho",
@@ -1220,7 +1253,11 @@
 		},
 		{
 		  "text": "Jeans",
-		  "aesthetics": ["indie"]
+		  "aesthetics": ["indie", "minimalism"]
+		},
+		{
+		  "text": "Tulle skirt",
+		  "aesthetics": ["decora", "fairy_kei"]
 		}
 	  ]
 	},
@@ -1276,6 +1313,18 @@
 		{
 		  "text": "Sun-protecting hat",
 		  "aesthetics": ["desertwave"]
+		},
+		{
+		  "text": "Rainbow bracelets",
+		  "aesthetics": ["decora"]
+		},
+		{
+		  "text": "A pink bunny-shaped purse",
+		  "aesthetics": ["fairy_kei"]
+		},
+		{
+		  "text": "A simple leather belt",
+		  "aesthetics": ["minimalism"]
 		}
 	  ]
 	},
@@ -1307,6 +1356,10 @@
 		{
 		  "text": "Cologne",
 		  "aesthetics": ["dark_naturalism"]
+		},
+		{
+		  "text": "Rainbow hair clips",
+		  "aesthetics": ["decora"]
 		}
 	  ]
 	},
@@ -1367,16 +1420,20 @@
 		"aesthetics": ["fairycore", "ethereal", "dreamcore", "dark_naturalism"]
 		},
 		{
-		"text": "Forest cryptids",
-		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism"]
-		},
-		{
 		"text": "Mermaids",
 		"aesthetics": ["seapunk", "dreamcore", "baroque"]
 		},
 		{
+		"text": "Unicorns",
+		"aesthetics": ["fairy_kei", "dreamcore", "baroque"]
+		},
+		{
 		"text": "Ghosts",
 		"aesthetics": ["dark_naturalism"]
+		},
+		{
+		"text": "Forest cryptids",
+		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism"]
 		},
 		{
 		"text": "Area 51 alien creatures",
@@ -1475,8 +1532,8 @@
 	"answersType": "Text",
 	"answers": [
 		{
-		"text": "All of them",
-		"aesthetics": [""]
+		"text": "Stickers",
+		"aesthetics": ["decora", "kidcore"]
 		},
 		{
 		"text": "Anything that I've never heard of before",

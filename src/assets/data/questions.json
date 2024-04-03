@@ -202,7 +202,7 @@
 		},
 		{
 		  "text": "Fashion magazines",
-		  "aesthetics": ["decora", "baddie"]
+		  "aesthetics": ["decora", "baddie", "coastal_grandmother"]
 		}
 	  ]
 	},
@@ -268,11 +268,15 @@
 		},
 		{
 		  "text": "Fine dining",
-		  "aesthetics": ["glam"]
+		  "aesthetics": ["glam", "coastal_grandmother"]
 		},
 		{
 		  "text": "Fast food",
 		  "aesthetics": ["basic", "punk"]
+		},
+		{
+		  "text": "Healthy whole food",
+		  "aesthetics": ["coastal_grandmother"]
 		},
 		{
 		  "text": "Sweet desserts",
@@ -291,7 +295,7 @@
 		},
 		{
 		  "text": "Exploring a new city",
-		  "aesthetics": ["after_hours", "downtown_girl", "urbancore", "softcore"]
+		  "aesthetics": ["after_hours", "downtown_girl", "urbancore", "softcore", "adventurecore"]
 		},
 		{
 		  "text": "Relaxing at home",
@@ -303,7 +307,7 @@
 		},
 		{
 		  "text": "Lounging by the pool or on the beach",
-		  "aesthetics": ["vacation_dadcore", "tropical", "seapunk", "baddie"]
+		  "aesthetics": ["vacation_dadcore", "tropical", "seapunk", "baddie", "coastal_grandmother"]
 		}
 	  ]
 	},
@@ -451,7 +455,7 @@
 		  },
 		  {
 			"text": "Minecraft",
-			"aesthetics": ["kidcore", "dreamcore"]
+			"aesthetics": ["kidcore", "dreamcore", "adventurecore"]
 		  },
 		  {
 			"text": "Bioshock",
@@ -482,7 +486,7 @@
 		},
 		{
 		  "text": "Outdoor picnic",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "witchcore"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "witchcore", "adventurecore"]
 		},
 		{
 		  "text": "Grabbing a coffee and hanging out in the street",
@@ -490,7 +494,7 @@
 		},
 		{
 		  "text": "Night out at a club",
-		  "aesthetics": ["after_hours", "cybergoth", "downtown_girl", "punk", "vaporwave", "dieselpunk"]
+		  "aesthetics": ["after_hours", "cybergoth", "downtown_girl", "punk", "vaporwave", "dieselpunk", "coastal_grandmother"]
 		},
 		{
 		  "text": "Cultural event",
@@ -541,7 +545,11 @@
 		},
 		{
 		  "text": "Rock climbing",
-		  "aesthetics": ["desertwave"]
+		  "aesthetics": ["desertwave", "adventurecore"]
+		},
+		{
+		  "text": "Golf",
+		  "aesthetics": ["coastal_grandmother", "old_money"]
 		}
 	  ]
 	},
@@ -595,27 +603,27 @@
 		},
 		{
 		  "text": "Reading a book",
-		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "kidcore", "indie"]
+		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "kidcore", "indie", "coastal_grandmother"]
 		},
 		{
 		  "text": "Taking a bath",
-		  "aesthetics": ["comfy_cozy", "sweet_lolita"]
+		  "aesthetics": ["comfy_cozy", "sweet_lolita", "coastal_grandmother"]
 		},
 		{
 		  "text": "Watching TV, movies or Youtube",
-		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore", "baddie", "decora"]
+		  "aesthetics": ["angelcore", "comfy_cozy", "emo", "sweet_lolita", "grandparentcore", "baddie", "decora", "coastal_grandmother"]
 		},
 		{
 		  "text": "Sunbathing",
-		  "aesthetics": ["vacation_dadcore", "desertwave"]
+		  "aesthetics": ["vacation_dadcore", "desertwave", "coastal_grandmother"]
 		},
 		{
 		  "text": "Journaling",
-		  "aesthetics": ["kidcore", "dark_naturalism", "decora"]
+		  "aesthetics": ["kidcore", "dark_naturalism", "decora", "adventurecore"]
 		},
 		{
 		  "text": "Daydreaming",
-		  "aesthetics": ["kidcore", "ethereal", "dreamcore", "surrealism"]
+		  "aesthetics": ["kidcore", "ethereal", "dreamcore", "surrealism", "coastal_grandmother", "adventurecore"]
 		}
 	  ]
 	},
@@ -681,7 +689,7 @@
 		},
 		{
 		  "text": "Glass bottles and vases",
-		  "aesthetics": ["witchcore"]
+		  "aesthetics": ["witchcore", "coastal_grandmother"]
 		},
 		{
 		  "text": "Tapestries",
@@ -716,11 +724,11 @@
 		},
 		{
 		  "text": "Neutral earth tones",
-		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian", "modernism"]
+		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian", "modernism", "coastal_grandmother", "adventurecore"]
 		},
 		{
 		  "text": "Dark earth or muted tones",
-		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie", "steampunk"]
+		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie", "steampunk", "adventurecore"]
 		},
 		{
 		  "text": "Monochrome black and white",
@@ -857,7 +865,7 @@
 		},
 		{
 		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
-		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore"]
+		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore", "adventurecore"]
 		},
 		{
 		  "text": "Something which involves puzzling and tinkering (programming, hacking...)",
@@ -884,7 +892,7 @@
 	  "answers": [
 		{
 		"text": "The USA",
-		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave", "mid-century_modern"]
+		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave", "mid-century_modern", "coastal_grandmother"]
 	  	},
 		{
 		"text": "Southeast Asia",
@@ -943,7 +951,7 @@
 		},
 		{
 		  "text": "Sea elements",
-		  "aesthetics": ["rococo", "nautical", "seapunk"]
+		  "aesthetics": ["rococo", "nautical", "seapunk", "coastal_grandmother"]
 		},
 		{
 			"text": "Angels",
@@ -1072,7 +1080,7 @@
 		},
 		{
 		  "text": "Courage",
-		  "aesthetics": ["knightcore"]
+		  "aesthetics": ["knightcore", "adventurecore"]
 		},
 		{
 		  "text": "Self-confidence",
@@ -1111,7 +1119,7 @@
 		},
 		{
 		  "text": "Freedom",
-		  "aesthetics": ["bohemian", "indie"]
+		  "aesthetics": ["bohemian", "indie", "coastal_grandmother", "adventurecore"]
 		},
 		{
 		  "text": "Faith",
@@ -1210,7 +1218,7 @@
 		},
 		{
 		  "text": "Poncho",
-		  "aesthetics": ["desertwave"]
+		  "aesthetics": ["desertwave", "adventurecore"]
 		},
 		{
 		  "text": "Crop top",
@@ -1227,6 +1235,10 @@
 		{
 		  "text": "An old school band t-shirt",
 		  "aesthetics": ["indie"]
+		},
+		{
+		  "text": "A heavy flannel vest",
+		  "aesthetics": ["adventurecore"]
 		}
 	  ]
 	},
@@ -1276,7 +1288,7 @@
 	  "answers": [
 		{
 		  "text": "A dark grean beanie",
-		  "aesthetics": ["forestpunk", "indie"]
+		  "aesthetics": ["forestpunk", "indie", "adventurecore"]
 		},
 		{
 		  "text": "Casual warm woolly socks",
@@ -1284,7 +1296,7 @@
 		},
 		{
 		  "text": "Sunglasses",
-		  "aesthetics": ["seapunk"]
+		  "aesthetics": ["seapunk", "coastal_grandmother"]
 		},
 		{
 		  "text": "Chunky beaded jewelry",
@@ -1337,6 +1349,10 @@
 		{
 		  "text": "A top hat",
 		  "aesthetics": ["steampunk"]
+		},
+		{
+		  "text": "Durable boots",
+		  "aesthetics": ["adventurecore"]
 		}
 	  ]
 	},
@@ -1359,7 +1375,7 @@
 		},
 		{
 		  "text": "Leather cloak",
-		  "aesthetics": ["knightcore", "desertwave"]
+		  "aesthetics": ["knightcore", "desertwave", "adventurecore"]
 		},
 		{
 		  "text": "Tribal tattoos",
@@ -1376,6 +1392,10 @@
 		{
 		  "text": "Goggles",
 		  "aesthetics": ["steampunk"]
+		},
+		{
+		  "text": "A backpack",
+		  "aesthetics": ["adventurecore"]
 		}
 	  ]
 	},
@@ -1394,7 +1414,7 @@
 		},
 		{
 			"text": "An abandoned skate park",
-			"aesthetics": ["after_hours", "skater"]
+			"aesthetics": ["after_hours", "skater", "adventurecore"]
 		},
 		{
 			"text": "A little cottage on the countryside",
@@ -1409,6 +1429,10 @@
 			"aesthetics": ["cottagegore", "forestpunk", "witchcore", "dark_naturalism"]
 		},
 		{
+			"text": "The rocky flank of a sharp mountain",
+			"aesthetics": ["adventurecore"]
+		},
+		{
 			"text": "A cathedral",
 			"aesthetics": ["ethereal", "gothic", "knightcore", "baroque"]
 		},
@@ -1419,10 +1443,10 @@
 		{
 			"text": "An empty cemetery at night",
 			"aesthetics": ["after_hours", "cottagegore", "gothic"]
-		} ,
+		},
 		{
 			"text": "The ruins of a medieval castle",
-			"aesthetics": ["knightcore"]
+			"aesthetics": ["knightcore", "adventurecore"]
 		} 
 	]
 	},
@@ -1449,7 +1473,7 @@
 		},
 		{
 		"text": "Forest cryptids",
-		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism", "surrealism"]
+		"aesthetics": ["cottagegore", "dreamcore", "dark_naturalism", "surrealism", "adventurecore"]
 		},
 		{
 		"text": "Area 51 alien creatures",
@@ -1473,6 +1497,10 @@
 		{
 		"text": "Cute",
 		"aesthetics": ["softcore"]
+		},
+		{
+		"text": "Cool",
+		"aesthetics": ["dandy"]
 		},
 		{
 		"text": "Sexy",
@@ -1616,6 +1644,10 @@
 		{
 		"text": "Supernatural stuff",
 		"aesthetics": ["dark_naturalism", "dreamcore", "surrealism"]
+		},
+		{
+		"text": "WHere to go for your next holiday",
+		"aesthetics": ["adventurecore", "vacation_dadcore"]
 		}
 	]
 	},

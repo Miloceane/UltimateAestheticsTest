@@ -373,7 +373,7 @@
 		},
 		{
 		  "text": "Horse",
-		  "aesthetics": ["knightcore", "fantasy"]
+		  "aesthetics": ["knightcore", "fantasy", "rustic"]
 		},
 		{
 		  "text": "Reptile",
@@ -420,7 +420,7 @@
 		},
 		{
 		  "text": "Gardening",
-		  "aesthetics": ["cottagecore", "solarpunk", "hippie", "grandparentcore"]
+		  "aesthetics": ["cottagecore", "solarpunk", "hippie", "grandparentcore", "rustic"]
 		},
 		{
 		  "text": "Watching anime",
@@ -553,7 +553,7 @@
 		},
 		{
 		  "text": "Horse-back riding",
-		  "aesthetics": ["knightcore"]
+		  "aesthetics": ["knightcore", "rustic"]
 		},
 		{
 		  "text": "Fencing",
@@ -830,11 +830,11 @@
 	  	},
 		{
 		  "text": "18th century",
-		  "aesthetics": ["rococo", "victorian", "dandy", "baroque", "romanticism", "gothic_lolita", "sweet_lolita", "classic_lolita"]
+		  "aesthetics": ["rococo", "victorian", "dandy", "baroque", "romanticism", "gothic_lolita", "sweet_lolita", "classic_lolita", "rustic"]
 		},
 		{
 		  "text": "19th century",
-		  "aesthetics": ["victorian", "art_nouveau", "modernism", "solarpunk", "dandy", "steampunk", "romanticism", "gothic_lolita", "classic_lolita", "sweet_lolita"]
+		  "aesthetics": ["victorian", "art_nouveau", "modernism", "solarpunk", "dandy", "steampunk", "romanticism", "gothic_lolita", "classic_lolita", "sweet_lolita", "rustic"]
 		},
 		{
 		  "text": "Early 20th century",
@@ -889,7 +889,7 @@
 		},
 		{
 		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
-		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore", "adventurecore", "nautical", "romanticism"]
+		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore", "adventurecore", "nautical", "romanticism", "rustic"]
 		},
 		{
 		  "text": "Something which involves puzzling and tinkering (programming, hacking...)",
@@ -916,8 +916,12 @@
 	  "answers": [
 		{
 		"text": "The USA",
-		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave", "mid-century_modern", "coastal_grandmother", "urbancore", "military", "coquette"]
+		"aesthetics": ["vintage_americana", "y2k", "hipster", "atompunk", "desertwave", "mid-century_modern", "coastal_grandmother", "urbancore", "military", "coquette", "rustic"]
 	  	},
+		{
+		"text": "South America",
+		"aesthetics": ["rustic"]
+		},
 		{
 		"text": "Southeast Asia",
 		"aesthetics": ["rococo", "e-girl_e-boy"]
@@ -1049,6 +1053,10 @@
 		  "aesthetics": ["rococo", "baroque"]
 		},
 		{
+		  "text": "(Modern) farmhouse",
+		  "aesthetics": ["rustic"]
+		},
+		{
 		  "text": "2000s flat colors",
 		  "aesthetics": ["bright_tertiaries"]
 		}
@@ -1069,7 +1077,7 @@
 		},
 		{
 		  "text": "Autumn",
-		  "aesthetics": ["vsco", "comfy_cozy"]
+		  "aesthetics": ["vsco", "comfy_cozy", "rustic"]
 		},
 		{
 		  "text": "Winter",
@@ -1104,7 +1112,7 @@
 		},
 		{
 		  "text": "Optimism",
-		  "aesthetics": ["vacation_dadcore", "ethereal", "seapunk", "cyberprep", "girl_crush"]
+		  "aesthetics": ["vacation_dadcore", "ethereal", "seapunk", "cyberprep", "girl_crush", "rustic"]
 		},
         {
 		  "text": "Femininity",
@@ -1261,7 +1269,7 @@
 		},
 		{
 		  "text": "A heavy flannel vest",
-		  "aesthetics": ["adventurecore", "grunge", "light_academia", "indie", "grandparentcore", "urbancore"]
+		  "aesthetics": ["adventurecore", "grunge", "light_academia", "indie", "grandparentcore", "urbancore", "rustic"]
 		},
 		{
 		  "text": "A techwear jacket",
@@ -1316,7 +1324,7 @@
 		},
 		{
 		  "text": "Jeans",
-		  "aesthetics": ["indie", "minimalism", "skater"]
+		  "aesthetics": ["indie", "minimalism", "skater", "rustic"]
 		},
 		{
 		  "text": "Slim-fit trousers",
@@ -1371,7 +1379,7 @@
 		},
 		{
 		  "text": "Casual warm woolly socks",
-		  "aesthetics": ["comfy_cozy"]
+		  "aesthetics": ["comfy_cozy", "rustic"]
 		},
 		{
 		  "text": "Sunglasses",
@@ -1427,7 +1435,7 @@
 		},
 		{
 		  "text": "A simple leather belt",
-		  "aesthetics": ["minimalism"]
+		  "aesthetics": ["minimalism", "rustic"]
 		},
 		{
 		  "text": "A top hat",
@@ -1435,7 +1443,7 @@
 		},
 		{
 		  "text": "Durable boots",
-		  "aesthetics": ["adventurecore"]
+		  "aesthetics": ["adventurecore", "rustic"]
 		},
 		{
 		  "text": "Fishnet tights",
@@ -1529,7 +1537,7 @@
 		},
 		{
 			"text": "A little cottage on the countryside",
-			"aesthetics": ["cottagecore", "cottagegore", "ethereal", "grandparentcore", "witchcore", "baroque"]
+			"aesthetics": ["cottagecore", "cottagegore", "ethereal", "grandparentcore", "witchcore", "baroque", "rustic"]
 		},
 		{
 			"text": "A sunny beach",

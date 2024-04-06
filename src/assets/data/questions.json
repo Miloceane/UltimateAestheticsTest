@@ -14,7 +14,7 @@
 		},
 		{
 		  "text": "Punk",
-		  "aesthetics": ["punk", "emo", "skater"]
+		  "aesthetics": ["punk", "emo", "skater", "grunge"]
 		},
 		{
 		  "text": "Classical",
@@ -30,7 +30,7 @@
 		},
 		{
 		  "text": "Metal",
-		  "aesthetics": ["cyberpunk", "y2k", "neo-tribal"]
+		  "aesthetics": ["cyberpunk", "y2k", "neo-tribal", "grunge"]
 		},
 		{
 		  "text": "Hip-Hop",
@@ -77,7 +77,7 @@
 		},
 		{
 		  "text": "Coastal beach",
-		  "aesthetics": ["coastal_grandmother", "nautical", "tropical", "seapunk"]
+		  "aesthetics": ["coastal_grandmother", "nautical", "tropical", "seapunk", "vacation_dadcore"]
 		},
 		{
 		  "text": "Barren desert",
@@ -96,7 +96,7 @@
 		},
 		{
 		"text": "Vintage",
-		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern", "fairy_kei", "steampunk", "coquette"]
+		"aesthetics": ["vintage_americana", "dark_academia", "hipster", "morute", "cottagegore", "softcore", "grandparentcore", "witchcore", "dandy", "desertwave", "indie", "mid-century_modern", "fairy_kei", "steampunk", "coquette", "grunge"]
 		},
 		{
 		  "text": "Gothic",
@@ -132,7 +132,7 @@
 		},
 		{
 		  "text": "Anti fashion",
-		  "aesthetics": ["grunge", "minimalism", "cyberprep"]
+		  "aesthetics": ["grunge", "minimalism", "cyberprep", "punk"]
 		}
 	  ]
 	},
@@ -267,10 +267,6 @@
 		  "aesthetics": ["comfy_cozy", "grandparentcore"]
 		},
 		{
-		  "text": "Exotic cuisine",
-		  "aesthetics": ["vaporwave", "seapunk"]
-		},
-		{
 		  "text": "Fine dining",
 		  "aesthetics": ["glam", "coastal_grandmother", "vintage_americana"]
 		},
@@ -279,7 +275,7 @@
 		  "aesthetics": ["basic", "punk"]
 		},
 		{
-		  "text": "Healthy whole food",
+		  "text": "Healthy trendy food",
 		  "aesthetics": ["coastal_grandmother"]
 		},
 		{
@@ -334,7 +330,7 @@
 		},
 		{
 		  "text": "Boats",
-		  "aesthetics": ["nautical"]
+		  "aesthetics": ["nautical", "tropical"]
 		},
 		{
 		  "text": "Cycling",
@@ -365,11 +361,11 @@
 		},
 		{
 		  "text": "Fish",
-		  "aesthetics": ["seapunk", "nautical"]
+		  "aesthetics": ["seapunk", "nautical", "tropical"]
 		},
 		{
 		  "text": "Bird",
-		  "aesthetics": ["angelcore", "forestpunk", "tropical"]
+		  "aesthetics": ["angelcore", "forestpunk"]
 		},
 		{
 		  "text": "Horse",
@@ -576,8 +572,12 @@
 		  "aesthetics": ["desertwave", "adventurecore"]
 		},
 		{
+		  "text": "Swimming",
+		  "aesthetics": ["tropical"]
+		},
+		{
 		  "text": "Surfing",
-		  "aesthetics": ["nautical", "urbancore"]
+		  "aesthetics": ["nautical", "urbancore", "tropical"]
 		},
 		{
 		  "text": "Golf",
@@ -635,7 +635,7 @@
 	  "answers": [
 		{
 		  "text": "Meditation",
-		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie", "bohemian", "minimalism"]
+		  "aesthetics": ["angelcore", "classic_academia", "light_academia", "hippie", "bohemian", "minimalism", "tropical"]
 		},
 		{
 		  "text": "Reading a book",
@@ -651,7 +651,7 @@
 		},
 		{
 		  "text": "Sunbathing",
-		  "aesthetics": ["vacation_dadcore", "desertwave", "coastal_grandmother"]
+		  "aesthetics": ["vacation_dadcore", "desertwave", "coastal_grandmother", "tropical"]
 		},
 		{
 		  "text": "Journaling",
@@ -694,7 +694,7 @@
 		},
 		{
 		  "text": "As many plants as possible",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "solarpunk", "hippie", "witchcore"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "solarpunk", "hippie", "witchcore", "tropical"]
 		}		
 	  ]
 	},
@@ -705,7 +705,7 @@
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian", "baroque", "romanticism", "fairycore"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian", "baroque", "romanticism", "fairycore", "tropical"]
 		},
 		{
 		  "text": "Antique furniture",
@@ -713,7 +713,7 @@
 		},
 		{
 		  "text": "Arts and crafts I made",
-		  "aesthetics": ["art_hoe", "grandparentcore", "bohemian"]
+		  "aesthetics": ["art_hoe", "grandparentcore", "bohemian", "tropical"]
 		},
 		{
 		  "text": "Religious symbols",
@@ -744,11 +744,11 @@
 		},
 		{
 		  "text": "A mix of neutral with a few bold colors",
-		  "aesthetics": ["basic", "preppy", "tropical", "vsco", "hippie", "grandparentcore", "witchcore", "dandy", "baddie", "nautical", "urbancore"]
+		  "aesthetics": ["basic", "preppy", "tropical", "vsco", "hippie", "grandparentcore", "witchcore", "dandy", "baddie", "nautical", "urbancore", "vacation_dadcore"]
 		},
 		{
 		  "text": "Bright rainbow colors",
-		  "aesthetics": ["decora", "kawaii", "kidcore", "hippie", "atompunk", "dreamcore", "baroque", "8-bit", "bright_tertiaries", "frutiger_metro"]
+		  "aesthetics": ["decora", "kawaii", "kidcore", "hippie", "atompunk", "dreamcore", "baroque", "8-bit", "bright_tertiaries", "frutiger_metro", "tropical"]
 		},
 		{
 		  "text": "Deep colors with some silver or gold",
@@ -764,7 +764,7 @@
 		},
 		{
 		  "text": "Dark earth or muted tones",
-		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie", "steampunk", "adventurecore", "horror", "skater"]
+		  "aesthetics": ["forestpunk", "dark_academia", "dark_naturalism", "cottagegore", "witchcore", "indie", "steampunk", "adventurecore", "horror", "skater", "grunge"]
 		},
 		{
 		  "text": "Monochrome black and white",
@@ -780,7 +780,7 @@
 		},
 		{
 		  "text": "Black, like my soul",
-		  "aesthetics": ["gothic", "emo", "gothic_lolita", "cottagegore", "dieselpunk", "witchcore", "girl_crush", "horror", "after_hours"]
+		  "aesthetics": ["gothic", "emo", "gothic_lolita", "cottagegore", "dieselpunk", "witchcore", "girl_crush", "horror", "after_hours", "grunge"]
 		}
 	  ]
 	},
@@ -900,8 +900,8 @@
 		"aesthetics": ["art_academia", "art_hoe", "witchcore"]
 		},
 		{
-		  "text": "Outdoor work in harmony with nature (gardening, forestkeeping...)",
-		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore", "adventurecore", "nautical", "romanticism", "rustic"]
+		  "text": "Outdoor work in harmony with nature (gardening, nature preservation...)",
+		  "aesthetics": ["cottagecore", "ethereal", "solarpunk", "forestpunk", "hippie", "grandparentcore", "witchcore", "adventurecore", "nautical", "romanticism", "rustic", "tropical"]
 		},
 		{
 		  "text": "Something which involves puzzling and tinkering (programming, hacking...)",
@@ -936,7 +936,7 @@
 		},
 		{
 		"text": "Southeast Asia",
-		"aesthetics": ["rococo", "e-girl_e-boy"]
+		"aesthetics": ["rococo", "e-girl_e-boy", "tropical"]
 		},
 		{
 		"text": "South Korea",
@@ -960,7 +960,7 @@
 		},
 		{
 		  "text": "Pacific islands",
-		  "aesthetics": ["vacation_dadcore", "neo-tribal"]
+		  "aesthetics": ["vacation_dadcore", "neo-tribal", "tropical"]
 		},
 		{
 		  "text": "Africa",
@@ -991,11 +991,11 @@
 		},
 		{
 		  "text": "Natural elements",
-		  "aesthetics": ["art_nouveau", "cottagecore", "classic_lolita", "sweet_lolita", "rococo", "solarpunk", "ethereal", "witchcore", "dark_naturalism", "bright_tertiaries", "frutiger_metro"]
+		  "aesthetics": ["art_nouveau", "cottagecore", "classic_lolita", "sweet_lolita", "rococo", "solarpunk", "ethereal", "witchcore", "dark_naturalism", "bright_tertiaries", "frutiger_metro", "tropical"]
 		},
 		{
 		  "text": "Sea elements",
-		  "aesthetics": ["rococo", "nautical", "seapunk", "coastal_grandmother"]
+		  "aesthetics": ["rococo", "nautical", "seapunk", "coastal_grandmother", "tropical"]
 		},
 		{
 			"text": "Angels",
@@ -1054,7 +1054,7 @@
 		},
 		{
 		  "text": "Bohemian",
-		  "aesthetics": ["bohemian", "hippie"]
+		  "aesthetics": ["bohemian", "hippie", "tropical"]
 		},
 		{
 		  "text": "19th century Victorian",
@@ -1085,7 +1085,7 @@
 		},
 		{
 		  "text": "Summer",
-		  "aesthetics": ["tropical", "vacation_dadcore"]
+		  "aesthetics": ["vacation_dadcore"]
 		},
 		{
 		  "text": "Autumn",
@@ -1175,11 +1175,11 @@
 		},
 		{
 		  "text": "Sustainability",
-		  "aesthetics": ["solarpunk", "hippie", "softcore", "minimalism", "nautical"]
+		  "aesthetics": ["solarpunk", "hippie", "softcore", "minimalism", "nautical", "tropical", "grunge"]
 		},
 		{
 		  "text": "Freedom",
-		  "aesthetics": ["bohemian", "indie", "coastal_grandmother", "adventurecore", "fantasy", "military", "romanticism"]
+		  "aesthetics": ["bohemian", "indie", "coastal_grandmother", "adventurecore", "fantasy", "military", "romanticism", "grunge"]
 		},
 		{
 		  "text": "Faith",
@@ -1213,7 +1213,7 @@
 		  "aesthetics": ["sweet_lolita", "fairy_kei"]
 		},
 		{
-		  "text": "Milk shake",
+		  "text": "A milk shake",
 		  "aesthetics": ["fairy_kei"]
 		},
 		{
@@ -1227,6 +1227,10 @@
 		{
 		  "text": "A bottle of cola",
 		  "aesthetics": ["vintage_americana", "coastal_grandmother"]
+		},
+		{
+		  "text": "A (virgin) pina colada",
+		  "aesthetics": ["vacation_dadcore", "tropical", "coastal_grandmother"]
 		}
 	  ]
 	},
@@ -1237,7 +1241,7 @@
 	  "answers": [
 		{
 			"text": "A white polo shirt",
-			"aesthetics": ["minimalism", "nautical", "old_money"]
+			"aesthetics": ["minimalism", "nautical", "old_money", "vacation_dadcore"]
 		},
 		{
 		  "text": "A holographic shirt",
@@ -1258,6 +1262,10 @@
 		{
 		  "text": "An old school band t-shirt",
 		  "aesthetics": ["indie", "skater"]
+		},
+		{
+		  "text": "A Hawaiian shirt",
+		  "aesthetics": ["vacation_dadcore", "tropical"]
 		},
 		{
 		  "text": "Crop top",
@@ -1328,7 +1336,7 @@
 	  "answers": [
 		{
 		  "text": "Cargo pants",
-		  "aesthetics": ["skater"]
+		  "aesthetics": ["skater", "vacation_dadcore"]
 		},
 		{
 		  "text": "Camo pants",
@@ -1336,7 +1344,7 @@
 		},
 		{
 		  "text": "Jeans",
-		  "aesthetics": ["indie", "minimalism", "skater", "rustic"]
+		  "aesthetics": ["indie", "minimalism", "skater", "rustic", "grunge"]
 		},
 		{
 		  "text": "Slim-fit trousers",
@@ -1395,7 +1403,7 @@
 		},
 		{
 		  "text": "Sunglasses",
-		  "aesthetics": ["seapunk", "coastal_grandmother", "glam", "old_money"]
+		  "aesthetics": ["seapunk", "coastal_grandmother", "glam", "old_money", "vacation_dadcore"]
 		},
 		{
 		  "text": "Chunky beaded jewelry",
@@ -1419,11 +1427,19 @@
 		},
 		{
 		  "text": "Old sneakers",
-		  "aesthetics": ["kidcore", "indie", "vintage_americana", "urbancore"]
+		  "aesthetics": ["kidcore", "indie", "vintage_americana", "urbancore", "grunge"]
+		},
+		{
+		  "text": "Sandals",
+		  "aesthetics": ["vacation_dadcore"]
 		},
 		{
 		  "text": "Flat bottomes shoes",
 		  "aesthetics": ["skater"]
+		},
+		{
+		  "text": "Durable boots",
+		  "aesthetics": ["adventurecore", "rustic", "grunge"]
 		},
 		{
 		  "text": "Light-up shoes",
@@ -1435,7 +1451,7 @@
 		},
 		{
 		  "text": "Sun-protecting hat",
-		  "aesthetics": ["desertwave", "coastal_grandmother", "romanticism"]
+		  "aesthetics": ["desertwave", "coastal_grandmother", "romanticism", "tropical", "vacation_dadcore"]
 		},
 		{
 		  "text": "Rainbow bracelets",
@@ -1452,10 +1468,6 @@
 		{
 		  "text": "A top hat",
 		  "aesthetics": ["steampunk"]
-		},
-		{
-		  "text": "Durable boots",
-		  "aesthetics": ["adventurecore", "rustic"]
 		},
 		{
 		  "text": "Fishnet tights",
@@ -1505,6 +1517,10 @@
 		  "aesthetics": ["old_money"]
 		},
 		{
+		  "text": "Choker",
+		  "aesthetics": ["grunge"]
+		},
+		{
 		  "text": "Harness",
 		  "aesthetics": ["girl_crush", "e-girl_e-boy", "horror"]
 		},
@@ -1531,6 +1547,10 @@
 		{
 		"text": "Tattoos",
 		"aesthetics": ["neo-tribal", "e-girl_e-boy"]
+		},
+		{
+		  "text": "A kick-ass moustache",
+		  "aesthetics": ["vacation_dadcore"]
 		},
 		{
 		  "text": "Cologne",
@@ -1565,7 +1585,7 @@
 		},
 		{
 			"text": "A dense forest",
-			"aesthetics": ["cottagegore", "forestpunk", "witchcore", "dark_naturalism", "fantasy", "fairycore"]
+			"aesthetics": ["cottagegore", "forestpunk", "witchcore", "dark_naturalism", "fantasy", "fairycore", "tropical"]
 		},
 		{
 			"text": "The rocky flank of a sharp mountain",
@@ -1660,6 +1680,29 @@
 		{
 		"text": "Elegant",
 		"aesthetics": ["dandy", "girl_crush", "old_money"]
+		}
+	]
+	},
+	{
+	"question": "What is more important when you pick your clothing?",
+	"question_subtype": "General",
+	"answersType": "Text",
+	"answers": [
+		{
+		"text": "How much I like the way it looks",
+		"aesthetics": ["solarpunk"]
+		},
+		{
+		"text": "How comfortable it feels",
+		"aesthetics": ["tropical", "old_money", "comfy_cozy", "vacation_dadcore"]
+		},
+		{
+		"text": "How practical it is",
+		"aesthetics": ["vacation_dadcore"]
+		},
+		{
+		"text": "How acceptable it is for the people I'll encounter during the day",
+		"aesthetics": ["old_money"]
 		}
 	]
 	},
@@ -1837,7 +1880,7 @@
 		},
 		{
 		"text": "Rebellious",
-		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk", "hippie", "atompunk", "dieselpunk", "modernism", "girl_crush", "urbancore", "military", "after_hours"]
+		"aesthetics": ["punk", "military", "sweet_lolita", "gothic_lolita", "neo-tribal", "solarpunk", "hippie", "atompunk", "dieselpunk", "modernism", "girl_crush", "urbancore", "military", "after_hours", "grunge"]
 		},
 		{
 		"text": "Reviving old trends",

@@ -116,7 +116,7 @@
 		},
 		{
 		  "text": "Romantic",
-		  "aesthetics": ["cottagecore", "romanticism", "dandy", "ethereal"]
+		  "aesthetics": ["cottagecore", "romanticism", "dandy", "ethereal", "rococo"]
 		},
 		{
 		  "text": "Streetwear",
@@ -186,7 +186,7 @@
 		},
 		{
 		  "text": "Romance",
-		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita", "dark_academia", "dandy"]
+		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita", "dark_academia", "dandy", "rococo"]
 		},
 		{
 		  "text": "Science fiction",
@@ -229,7 +229,7 @@
 		},
 		{
 		  "text": "Romance",
-		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita", "dandy"]
+		  "aesthetics": ["angelcore", "romanticism", "sweet_lolita", "dandy", "rococo"]
 		},
 		{
 		  "text": "Science fiction",
@@ -357,7 +357,7 @@
 		},
 		{
 		  "text": "Dog",
-		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "vsco"]
+		  "aesthetics": ["basic", "girly_kei", "kawaii", "preppy", "vsco", "comfy_cozy"]
 		},
 		{
 		  "text": "Bunny",
@@ -369,7 +369,7 @@
 		},
 		{
 		  "text": "Bird",
-		  "aesthetics": ["angelcore", "forestpunk"]
+		  "aesthetics": ["angelcore", "forestpunk", "rococo"]
 		},
 		{
 		  "text": "Horse",
@@ -400,7 +400,7 @@
 	  "answers": [
 		{
 		  "text": "Reading",
-		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "softcore", "indie", "horror"]
+		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "softcore", "indie", "horror", "comfy_cozy"]
 		},
 		{
 		  "text": "Hiking",
@@ -428,11 +428,11 @@
 		},
 		{
 		  "text": "Chilling and watching TikTok or Youtube",
-		  "aesthetics": ["baddie", "basic", "dreamcore", "e-girl_e-boy", "skater", "coquette", "girly_kei", "y2k", "downtown_girl/downtown_boy"]
+		  "aesthetics": ["baddie", "basic", "dreamcore", "e-girl_e-boy", "skater", "coquette", "girly_kei", "y2k", "downtown_girl/downtown_boy", "comfy_cozy"]
 		},
 		{
 		  "text": "Baking",
-		  "aesthetics": ["grandparentcore", "cottagegore", "cottagecore", "softcore", "witchcore"]
+		  "aesthetics": ["grandparentcore", "cottagegore", "cottagecore", "softcore", "witchcore", "comfy_cozy"]
 		},
 		{
 		  "text": "Programming (also browsing Reddit)",
@@ -518,7 +518,7 @@
 	  "answers": [
 		{
 		  "text": "Intimate dinner party",
-		  "aesthetics": ["angelcore", "cottagecore", "emo", "mori_kei", "sweet_lolita", "baroque", "vintage_americana", "glam"]
+		  "aesthetics": ["angelcore", "cottagecore", "emo", "mori_kei", "sweet_lolita", "baroque", "vintage_americana", "glam", "rococo"]
 		},
 		{
 		  "text": "Outdoor picnic",
@@ -608,7 +608,7 @@
 		},
 		{
 		  "text": "Clocks and watches",
-		  "aesthetics": ["art_deco", "steampunk", "old_money", "after_hours"]
+		  "aesthetics": ["art_deco", "steampunk", "old_money", "after_hours", "victorian"]
 		},
 		{
 		  "text": "Vintage cameras",
@@ -655,7 +655,7 @@
 		},
 		{
 		  "text": "Reading a book",
-		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "kidcore", "indie", "coastal_grandmother", "fantasy", "nautical", "horror", "art_academia", "downtown_girl/downtown_boy"]
+		  "aesthetics": ["angelcore", "classic_academia", "dark_academia", "light_academia", "mori_kei", "science_academia", "romanticism", "kidcore", "indie", "coastal_grandmother", "fantasy", "nautical", "horror", "art_academia", "downtown_girl/downtown_boy", "comfy_cozy"]
 		},
 		{
 		  "text": "Taking a bath",
@@ -693,8 +693,8 @@
 		  "aesthetics": ["cybercore", "cybergoth", "cyberpunk", "minimalism", "mid-century_modern", "modernism"]
 		},
 		{
-		  "text": "Maximalist and eclectic",
-		  "aesthetics": ["bohemian", "baroque", "steampunk", "frutiger_metro", "kawaii"]
+		  "text": "Maximalist or eclectic",
+		  "aesthetics": ["bohemian", "baroque", "steampunk", "frutiger_metro", "kawaii", "victorian"]
 		},
 		{
 		  "text": "Antique or vintage",
@@ -706,7 +706,7 @@
 		},
 		{
 		  "text": "Comfortable and not too serious",
-		  "aesthetics": ["grandparentcore", "bohemian", "softcore"]
+		  "aesthetics": ["grandparentcore", "bohemian", "softcore", "rococo", "comfy_cozy"]
 		},
 		{
 		  "text": "As many plants as possible",
@@ -721,7 +721,7 @@
 	  "answers": [
 		{
 		  "text": "Plants and natural elements",
-		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian", "baroque", "romanticism", "fairycore", "tropical"]
+		  "aesthetics": ["cottagecore", "forestpunk", "mori_kei", "rustic", "cottagegore", "solarpunk", "hippie", "witchcore", "desertwave", "bohemian", "baroque", "romanticism", "fairycore", "tropical", "comfy_cozy"]
 		},
 		{
 		  "text": "Antique furniture",
@@ -737,12 +737,16 @@
 		},
 		{
 		  "text": "Colorful  plushies, figurines or posters",
-		  "aesthetics": ["kidcore", "softcore", "decora", "fairy_kei", "e-girl_e-boy", "8-bit"]
+		  "aesthetics": ["kidcore", "softcore", "decora", "fairy_kei", "e-girl_e-boy", "8-bit", "comfy_cozy"]
 		},
 		{
 		  "text": "Glass bottles and vases",
 		  "aesthetics": ["witchcore", "coastal_grandmother", "fantasy", "art_nouveau", "science_academia"]
 		},
+		{
+		  "text": "Many candles",
+		  "aesthetics": ["comfy_cozy", "witchcore"]
+		}	,
 		{
 		  "text": "Tapestries",
 		  "aesthetics": ["bohemian", "baroque", "witchcore"]
@@ -768,7 +772,7 @@
 		},
 		{
 		  "text": "Deep colors with some silver or gold",
-		  "aesthetics": ["glam", "atompunk", "knightcore", "kidcore", "grandparentcore", "dandy", "baroque", "steampunk", "gothic_lolita", "art_nouveau", "art_deco"]
+		  "aesthetics": ["glam", "atompunk", "knightcore", "kidcore", "grandparentcore", "dandy", "baroque", "steampunk", "gothic_lolita", "art_nouveau", "art_deco", "victorian"]
 		},
 		{
 		  "text": "Muted colors",
@@ -776,7 +780,7 @@
 		},
 		{
 		  "text": "Neutral earth tones",
-		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian", "modernism", "coastal_grandmother", "fairycore", "old_money", "forestpunk"]
+		  "aesthetics": ["classic_academia", "light_academia", "mori_kei", "rustic", "minimalism", "cottagegore", "grandparentcore", "desertwave", "bohemian", "modernism", "coastal_grandmother", "fairycore", "old_money", "forestpunk", "comfy_cozy"]
 		},
 		{
 		  "text": "Dark earth or muted tones",
@@ -823,7 +827,7 @@
 		},
 		{
 		  "text": "Art Nouveau",
-		  "aesthetics": ["art_nouveau", "art_academia", "art_hoe", "solarpunk", "frutiger_metro"]
+		  "aesthetics": ["art_nouveau", "art_academia", "art_hoe", "solarpunk", "frutiger_metro", "victorian"]
 		},
 		{
 		  "text": "Art Deco",
@@ -971,7 +975,7 @@
 		  "aesthetics": ["rococo", "sweet_lolita", "art_nouveau", "dandy", "baroque", "surrealism", "fantasy", "coquette", "art_deco", "y2k"]
 		},
 		{
-		  "text": "England",
+		  "text": "The UK",
 		  "aesthetics": ["victorian", "cottagecore", "dark_academia", "classic_lolita", "dandy", "steampunk", "fantasy", "old_money", "art_nouveau", "cybercore"]
 		},
 		{
@@ -1031,7 +1035,7 @@
 		},
 		{
 			"text": "Butterflies",
-			"aesthetics": ["art_nouveau", "frutiger_aero", "frutiger_metro", "cottagecore", "kidcore", "angelcore", "kawaii"]
+			"aesthetics": ["art_nouveau", "frutiger_aero", "frutiger_metro", "kidcore", "angelcore", "kawaii"]
 		},
 		{
 			"text": "Cute animals",
@@ -1043,7 +1047,7 @@
 		},
 		{
 		  "text": "Hearts",
-		  "aesthetics": ["vintage_americana", "emo", "angelcore", "girly_kei"]
+		  "aesthetics": ["vintage_americana", "emo", "angelcore", "girly_kei", "rococo"]
 		},
 		{
 		  "text": "Something that looks or feels bubbly",
@@ -1066,7 +1070,7 @@
 	  	},
 		{
 		  "text": "Art Nouveau",
-		  "aesthetics": ["art_nouveau", "solarpunk"]
+		  "aesthetics": ["art_nouveau", "solarpunk", "victorian"]
 		},
 		{
 		  "text": "Art Deco",
@@ -1094,7 +1098,7 @@
 		},
 		{
 		  "text": "Rococo",
-		  "aesthetics": ["rococo", "baroque"]
+		  "aesthetics": ["rococo", "baroque", "victorian"]
 		},
 		{
 		  "text": "(Modern) farmhouse",
@@ -1254,11 +1258,11 @@
 		},
 		{
 		  "text": "A simple cup of tea...",
-		  "aesthetics": ["witchcore", "gothic_lolita", "classic_lolita", "sweet_lolita", "girly_kei", "science_academia", "downtown_girl/downtown_boy", "classic_academia"]
+		  "aesthetics": ["witchcore", "gothic_lolita", "classic_lolita", "sweet_lolita", "girly_kei", "science_academia", "downtown_girl/downtown_boy", "classic_academia", "victorian"]
 		},
 		{
 		  "text": "No, coffee!",
-		  "aesthetics": ["science_academia", "downtown_girl/downtown_boy", "classic_academia"]
+		  "aesthetics": ["science_academia", "downtown_girl/downtown_boy", "classic_academia", "comfy_cozy"]
 		},
 		{
 		  "text": "A bottle of cola",
@@ -1317,7 +1321,7 @@
 		},
 		{
 		  "text": "A cozy jumper",
-		  "aesthetics": ["grandparentcore", "vacation_dadcore", "science_academia"]
+		  "aesthetics": ["grandparentcore", "vacation_dadcore", "science_academia", "comfy_cozy"]
 		},
 		{
 		  "text": "A hoodie with a tattoo print",
@@ -1337,7 +1341,7 @@
 		},
 		{
 		  "text": "A dark waistcoat",
-		  "aesthetics": ["dieselpunk", "dandy", "steampunk", "horror"]
+		  "aesthetics": ["dieselpunk", "dandy", "steampunk", "horror", "victorian"]
 		},
 		{
 		  "text": "A leather vest",
@@ -1395,6 +1399,10 @@
 		  "aesthetics": ["urbancore"]
 		},
 		{
+		  "text": "Yoga pants",
+		  "aesthetics": ["comfy_cozy"]
+		},
+		{
 		  "text": "Harem pants",
 		  "aesthetics": ["hippie", "bohemian"]
 		},
@@ -1424,7 +1432,7 @@
 		},
 		{
 		  "text": "Poofy skirt",
-		  "aesthetics": ["gothic_lolita"]
+		  "aesthetics": ["gothic_lolita", "victorian"]
 		}
 	  ]
 	},
@@ -1446,12 +1454,16 @@
 		  "aesthetics": ["vacation_dadcore", "angelcore"]
 		},
 		{
+		  "text": "Slippers to stay at home",
+		  "aesthetics": ["comfy_cozy"]
+		},
+		{
 		  "text": "Flat bottomes shoes",
 		  "aesthetics": ["skater"]
 		},
 		{
 		  "text": "Durable boots",
-		  "aesthetics": ["adventurecore", "rustic", "grunge", "science_academia", "classic_academia"]
+		  "aesthetics": ["adventurecore", "rustic", "grunge", "science_academia", "classic_academia", "victorian"]
 		},
 		{
 		  "text": "Mary-Jane shoes",
@@ -1486,7 +1498,7 @@
 		},
 		{
 		  "text": "A top hat",
-		  "aesthetics": ["steampunk"]
+		  "aesthetics": ["steampunk", "victorian"]
 		},
 		{
 		  "text": "Dark hosiery",
@@ -1511,6 +1523,10 @@
 		{
 		  "text": "A pink bunny-shaped purse",
 		  "aesthetics": ["fairy_kei"]
+		},
+		{
+		  "text": "A corset",
+		  "aesthetics": ["victorian"]
 		},
 		{
 		  "text": "A simple leather belt",
@@ -1573,11 +1589,11 @@
 		},
 		{
 		  "text": "Pearl necklace",
-		  "aesthetics": ["old_money"]
+		  "aesthetics": ["old_money", "rococo"]
 		},
 		{
 		  "text": "Choker",
-		  "aesthetics": ["grunge", "emo"]
+		  "aesthetics": ["grunge", "emo", "rococo"]
 		},
 		{
 		  "text": "Harness",
@@ -1656,7 +1672,7 @@
 		},
 		{
 			"text": "A cathedral",
-			"aesthetics": ["ethereal", "gothic", "knightcore", "baroque"]
+			"aesthetics": ["ethereal", "gothic", "knightcore", "baroque", "victorian"]
 		},
 		{
 			"text": "The club!",
@@ -1672,7 +1688,7 @@
 		},
 		{
 			"text": "The ruins of a medieval castle",
-			"aesthetics": ["knightcore", "adventurecore", "fantasy", "gothic_lolita"]
+			"aesthetics": ["knightcore", "adventurecore", "fantasy", "gothic_lolita", "victorian"]
 		} 
 	]
 	},
@@ -1687,7 +1703,7 @@
 		},
 		{
 		"text": "Dragons",
-		"aesthetics": ["knightcore", "fantasy", "baroque", "dreamcore"]
+		"aesthetics": ["knightcore", "fantasy", "baroque", "dreamcore", "rococo"]
 		},
 		{
 		"text": "Mermaids",
@@ -1742,7 +1758,7 @@
 		},
 		{
 		"text": "Elegant",
-		"aesthetics": ["dandy", "girl_crush", "old_money"]
+		"aesthetics": ["dandy", "girl_crush", "old_money", "rococo"]
 		}
 	]
 	},

@@ -1830,29 +1830,6 @@
 	]
 	},
 	{
-	"question": "Pick a font",
-	"question_subtype": "General",
-	"answersType": "Text",
-	"answers": [
-		{
-		"text": "Helvetica",
-		"aesthetics": ["frutiger_aero"]
-		},
-		{
-		"text": "Monospace",
-		"aesthetics": ["8-bit"]
-		},
-		{
-		"text": "",
-		"aesthetics": ["", ""]
-		},
-		{
-		"text": "",
-		"aesthetics": [""]
-		}
-	]
-	},
-	{
 	"question": "What is/was your favourite subject at school?",
 	"question_subtype": "General",
 	"answersType": "Text",
@@ -1958,37 +1935,6 @@
 		{
 		"text": "Where to go for your next holiday",
 		"aesthetics": ["adventurecore", "vacation_dadcore", "fantasy"]
-		}
-	]
-	},
-	{
-	"question": "Your favourite Marvel movie?",
-	"question_subtype": "General",
-	"answersType": "Text",
-	"answers": [
-		{
-		"text": "Captain America",
-		"aesthetics": ["dieselpunk", "vintage_americana"]
-		},
-		{
-		"text": "",
-		"aesthetics": [""]
-		},
-		{
-		"text": "",
-		"aesthetics": [""]
-		},
-		{
-		"text": "",
-		"aesthetics": ["", "", ""]
-		},
-		{
-		"text": "",
-		"aesthetics": [""]
-		},
-		{
-		"text": "",
-		"aesthetics": ["", ""]
 		}
 	]
 	},
